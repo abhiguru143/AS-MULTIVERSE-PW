@@ -61,14 +61,16 @@ h1 {
 }
 
 .features {
-    text-align: left;
+    text-align: center;
     margin: 20px 0;
+    max-width: 600px;
+    margin: auto;
 }
 
-.features p {
-    font-size: 1.2em;
+.features strong {
+    display: block;
     margin-bottom: 10px;
-    text-align: center;
+    font-size: 1.2em;
 }
 
 .features ul {
@@ -84,13 +86,6 @@ h1 {
     padding-left: 20px;
 }
 
-.features ul li::before {
-    content: '➥';
-    position: absolute;
-    left: 0;
-    color: #6149eb;
-    font-weight: bold;
-}
 
 .button {
     display: inline-block;
