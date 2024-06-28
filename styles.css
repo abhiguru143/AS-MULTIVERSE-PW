@@ -109,6 +109,48 @@ li {
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
+.social-buttons {
+    margin-top: 20px;
+}
+
+.social-button {
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-button img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.telegram {
+    background-color: #0088cc;
+}
+
+.instagram {
+    background-color: #e1306c;
+}
+
+.youtube {
+    background-color: #ff0000;
+}
+
+.social-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 20px;
@@ -121,5 +163,15 @@ li {
     .button {
         padding: 10px 20px;
         font-size: 1em;
+    }
+    
+    .social-button {
+        padding: 8px 16px;
+        font-size: 0.9em;
+    }
+    
+    .social-button img {
+        width: 20px;
+        height: 20px;
     }
 }
