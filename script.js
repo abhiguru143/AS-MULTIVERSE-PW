@@ -1,4 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
+    // Force desktop mode on mobile devices
+    function forceDesktopMode() {
+        if (window.innerWidth < 1024) {
+            document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=1024');
+        }
+    }
+
+    forceDesktopMode();
+    window.addEventListener('resize', forceDesktopMode);
+
+    // Handle button click
     const button = document.querySelector('.button');
     button.addEventListener('click', function () {
         alert('Thank you for downloading our app!');
