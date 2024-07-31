@@ -28,9 +28,9 @@
   "mainurltype": "2",
   "bottype": "1",
   "botlink": "3",
-  "livelink": "https://madx-api-e4bfd190cba2.herokuapp.com/pw_live?link=",
+  "livelink": "https://madxapi-d61fccc1d53e.herokuapp.com/pw_live?link=",
   "live": "true",
-  "mainurl": "https://madx-api-e4bfd190cba2.herokuapp.com/pp?link=https://d1bppx4iuv3uee.cloudfront.net/",
+  "mainurl": "https://madxapi-d61fccc1d53e.herokuapp.com/pp?link=https://d1bppx4iuv3uee.cloudfront.net/",
   "quality1": "&quality=240",
   "quality2": "&quality=360",
   "quality3": "&quality=480",
@@ -39,6 +39,6 @@
   "sr": "false",
   "mainurlsr": "https://coral-dashing.glitch.me/video_ki_new_api?Vurl=",
   "tok": "true",
-  "copy": "false",
+  "copy": "true",
   "cmd": "/yl1 "
 }
