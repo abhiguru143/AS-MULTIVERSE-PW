@@ -37,7 +37,7 @@
   "quality4": "&quality=720",
   "mainurl2": "",
   "sr": "false",
-  "mainurlsr": "https://coral-dashing.glitch.me/video_ki_new_api?Vurl=",
+  "mainurlsr": "https://madxapi-d61fccc1d53e.herokuapp.com/get-video-data?url=",
   "tok": "true",
   "copy": "true",
   "cmd": "/yl1 "
