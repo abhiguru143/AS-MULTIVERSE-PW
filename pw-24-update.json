@@ -26,7 +26,7 @@
   "weburl": "https://studyrays.site/drmplayer.php?v=",
   "web": "false",
   "mainurltype": "2",
-  "bottype": "1",
+  "bottype": "2",
   "botlink": "3",
   "livelink": "https://madxapi-d61fccc1d53e.herokuapp.com/pw_live?link=",
   "live": "true",
