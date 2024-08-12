@@ -1,6 +1,6 @@
 {
   "success": "true",
-  "version": "24.07.2",
+  "version": "25.07.2",
   "tg": "https://telegram.me/+ihUQDgMZzL05ZjVl",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
@@ -37,8 +37,8 @@
   "quality4": "&quality=720",
   "mainurl2": "",
   "sr": "false",
-  "mainurlsr": "https://madxapi-ii-7c8472e7bbd0.herokuapp.com/get-video-data?url=",
+  "mainurlsr": "https://madxapi-ii-7c8472e7bbd0.herokuapp.com",
   "tok": "true",
-  "copy": "true",
+  "copy": "false",
   "cmd": "/yl "
 }
