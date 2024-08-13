@@ -39,6 +39,6 @@
   "sr": "false",
   "mainurlsr": "https://madxapi-ii-7c8472e7bbd0.herokuapp.com",
   "tok": "true",
-  "copy": "false",
+  "copy": "true",
   "cmd": "/yl "
 }
