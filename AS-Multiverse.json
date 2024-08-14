@@ -20,8 +20,8 @@
   "mainType": "0",
   "botType": "1",
   "mainurl": "",
-  "mainDLApi": "https://madxabhi-api-8919a6cddae0.herokuapp.com",
-  "mainApi": "https://madxabhi-api-8919a6cddae0.herokuapp.com",
+  "mainDLApi": "https://madxabhi-api-8919a6cddae0.herokuapp.com/",
+  "mainApi": "https://madxabhi-api-8919a6cddae0.herokuapp.com/",
   "tok": "true",
   "copy": "true",
   "cmd": "/yl "
