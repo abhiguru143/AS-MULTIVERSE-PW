@@ -1,11 +1,11 @@
 {
   "success": "true",
-  "version": "7",
+  "version": "8",
   "tg": "https://telegram.me/+ihUQDgMZzL05ZjVl",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
   "update": "https://telegram.me/+ihUQDgMZzL05ZjVl",
-  "announcement": "Aajao 10k hone wala telegram pe I need your support 🥳🥳🥳",
+  "announcement": "",
   "api": "https://madx-api-e4bfd190cba2.herokuapp.com/lesson_id?cid=",
   "madx": "@ASMultiverseUpdate",
   "madxABhi": "false"
