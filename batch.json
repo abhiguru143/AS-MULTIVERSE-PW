@@ -1,5 +1,21 @@
 [
   {
+    "batch_name": "Udaan Diamond 2025 Recorded",
+    "batch_class": "10th",
+    "batch_id": "669c0064ee4f9000182720ed",
+    "batch_slug": "udaan-diamond-2025-recorded-656728",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7b5873ef-81c2-4cef-a31d-b05562d7e2e4.png",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_name": "Neev Diamond 2025 Recorded",
+    "batch_class": "9th",
+    "batch_id": "669bb6a83fbc340018d193d4",
+    "batch_slug": "neev-diamond-2025-recorded-356604",
+    "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e31c5e6c-5a5f-438d-be69-3761db9b3de3.png",
+    "batch_exam": "FOUNDATION"
+  },
+  {
     "batch_name": "Fighter JEE - 2025",
     "batch_class": "11th",
     "batch_id": "66d06980538987001826ce3d",
