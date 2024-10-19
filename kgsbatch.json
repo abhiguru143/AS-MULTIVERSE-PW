@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "id": 404,
+      "title": "NDA-01 2025 Target Batch",
+      "slug": "nda-01-2025-target-batch",
+      "price": "1499",
+      "batch_id": 1,
+      "end_at": "2025-01-23",
+      "non_discount_price": "8000",
+      "duration": "3-4 Months",
+      "validity": 6,
+      "published_at": "2024-07-19 13:36:49",
+      "category_id": 5,
+      "lang": 0,
+      "is_feedback": 0,
+      "is_avail": 1,
+      "registration_end_at": "2024-08-31",
+      "registration_at": "2024-07-19",
+      "is_free": 0,
+      "image": {
+        "id": 404,
+        "entity_id": 380,
+        "entity": "course",
+        "thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/d630fa5f-ec16-4af2-9277-fffd8a50b3da.jpg",
+        "small": "https://kgs.nyc3.digitaloceanspaces.com/courses/small/d630fa5f-ec16-4af2-9277-fffd8a50b3da.jpg",
+        "medium": "https://kgs.nyc3.digitaloceanspaces.com/courses/medium/d630fa5f-ec16-4af2-9277-fffd8a50b3da.jpg",
+        "large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/d630fa5f-ec16-4af2-9277-fffd8a50b3da.jpg",
+        "caption": "thumb",
+        "type": "image",
+        "default": 0,
+        "enabled": 1,
+        "created_at": "2024-07-19T07:25:18.000000Z",
+        "updated_at": "2024-07-19T07:25:18.000000Z"
+      }
+    },
+    {
       "id": 380,
       "title": "UPSC CSAT 2025 Hindi Medium (Offline-Prayagraj)",
       "slug": "upsc-csat-2025-hindi-medium-offline-batch-3",
