@@ -1,0 +1,74 @@
+[
+    {
+        "batch_name": "FARRE 2.0: 1st Prof",
+        "batch_class": "12th+",
+        "batch_id": "6673f8c44f7e3b0018fae9a2",
+        "batch_slug": "farre-2-0--1st-prof-852805",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6885c20d-1eb7-4150-ac58-776fd8930ef4.jpeg",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "Sushruta Batch",
+        "batch_class": "12th+",
+        "batch_id": "65dd924e5e49ce0018c554ce",
+        "batch_slug": "sushruta-batch-751663",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/694c5418-b1a8-430d-9eef-b6c358d82dd1.png",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "2nd Year Essentials",
+        "batch_class": "12th+",
+        "batch_id": "6597dc87ef63c400189a85b6",
+        "batch_slug": "2nd-year-essentials-772368",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/a0de90d3-8b35-49a9-8af3-4d84c6d220fb.jpg",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "FARRE BATCH 2nd Prof",
+        "batch_class": "12th+",
+        "batch_id": "6541e595aa31d00018418679",
+        "batch_slug": "farre-batch-2nd-prof-675579",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/63b52963e72e8b00186c11f3/a340396e-157e-44b7-9056-a761d71417bf.png",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "FARRE BATCH 1st Prof",
+        "batch_class": "12th+",
+        "batch_id": "6516684188c6bc0019523861",
+        "batch_slug": "farre-batch-1st-prof-090747",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/63b52963e72e8b00186c11f3/f8ae290e-09af-49a1-b8d3-c5e972ee4618.jpeg",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "ASAP Batch",
+        "batch_class": "12th+",
+        "batch_id": "64f86b942baa8f00185acef5",
+        "batch_slug": "asap-batch-113044",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/090c44dc-5c58-43a8-a7e3-c42fc4790360.jpg",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "MBBS 1st Prof 2024",
+        "batch_class": "12th+",
+        "batch_id": "651be6f902b75d0018b529ee",
+        "batch_slug": "mbbs-1st-prof-2024-863689",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/ae4fe286-d0e8-4b15-bfe1-82245ab4776c.png",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "MBBS 2nd Prof",
+        "batch_class": "12th+",
+        "batch_id": "63f61e4a9ac9e40018d0d864",
+        "batch_slug": "mbbs-2nd-prof-050180",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/61ecbc09-b204-4339-98a6-a05918a8441c.jpg",
+        "batch_exam": "NEET PG"
+    },
+    {
+        "batch_name": "MBBS 1st Prof 2023",
+        "batch_class": "12th+",
+        "batch_id": "63f61ca69ac9e40018d0d7c9",
+        "batch_slug": "mbbs-1st-prof-2023-776138",
+        "batch_banner": "https://static.pw.live/63b52963e72e8b00186c11f3/e34da1ff-2f82-403c-a98f-3c95dc48639a.jpeg",
+        "batch_exam": "NEET PG"
+    }
+]

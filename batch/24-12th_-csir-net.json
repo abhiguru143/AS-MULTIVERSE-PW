@@ -1,0 +1,90 @@
+[
+    {
+        "batch_name": "Shodh General Aptitude",
+        "batch_class": "12th+",
+        "batch_id": "661538a21758c30018d79c9c",
+        "batch_slug": "shodh-general-aptitude-481997",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4e86f4e3-91b2-4a39-85ed-506cd9a7b264.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh Fastrack Mathematical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "65d9e3c6b4bf500018c4f875",
+        "batch_slug": "shodh-fastrack-mathematical-sciences-659542",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a8097a3c-3e85-4918-ae8c-39c22c8d1a8b.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh June 2024 Physical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "6540c9320eee4a0018ed461d",
+        "batch_slug": "shodh-june-2024-physical-sciences-460653",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/69bf9e79-cb13-4e24-8746-96f677932e99.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh June 2024 Chemical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "6540c932cb69c10018fc1883",
+        "batch_slug": "shodh-june-2024-chemical-sciences-535755",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6c25cb21-d397-4686-bbd0-33dd42930dd3.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "General Aptitude for CSIR NET/GATE",
+        "batch_class": "12th+",
+        "batch_id": "6513f76e028a1c0018e1dc1b",
+        "batch_slug": "general-aptitude-for-csir-net-gate-489815",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ff09291b-ce47-41cf-bfbe-afd5dda02aa9.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Udgam Series for CSIR NET/JRF",
+        "batch_class": "12th+",
+        "batch_id": "64c0f13f239a4b00185f0dc1",
+        "batch_slug": "udgam-series-for-csir-net-jrf-734078",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1a4b3551-21ff-411d-9386-2654b811e1a8.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Physical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "6489540452167b00187ed599",
+        "batch_slug": "shodh-2-0-batch-for-csir-net-gate-physical-sciences-153044",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2e97eb69-4d70-4d5f-8f01-abc8a9bbcda6.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Mathematical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "64895404e2445700189035d4",
+        "batch_slug": "shodh-2-0-batch-for-csir-net-gate-mathematical-sciences-166215",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/80a5143c-b556-40a8-9298-0efaab4b28c7.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Life Sciences",
+        "batch_class": "12th+",
+        "batch_id": "64887046d20328001899e66b",
+        "batch_slug": "shodh-2-0-batch-for-csir-net-gate-life-sciences-519297",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0a2baa5b-6bdf-4258-9f45-2562f962da8f.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh 2.0 Batch for CSIR NET/GATE Chemical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "64895404ab1da00018ce2cae",
+        "batch_slug": "shodh-2-0-batch-for-csir-net-gate-chemical-sciences-370797",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6e366a91-2a9e-4c64-8e14-f86e79297d4f.png",
+        "batch_exam": "CSIR NET"
+    },
+    {
+        "batch_name": "Shodh Batch for Physical Sciences",
+        "batch_class": "12th+",
+        "batch_id": "63d8a952e07e2a0019029711",
+        "batch_slug": "shodh-batch-for-physical-sciences-990589",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9c8506db-7b7c-46bb-8112-35d84ebce717.jpg",
+        "batch_exam": "CSIR NET"
+    }
+]

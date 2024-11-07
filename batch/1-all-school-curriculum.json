@@ -1,0 +1,122 @@
+[
+    {
+        "batch_name": "EuNext Grade-7",
+        "batch_class": "All",
+        "batch_id": "659bd03f2eb8260018c7d970",
+        "batch_slug": "eunext-grade-7-330714",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/22a8dd7f-47d4-49f2-b04f-88ae68eda897.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Bloom Grade-1",
+        "batch_class": "All",
+        "batch_id": "6548d0ec0835c0001816c9cb",
+        "batch_slug": "bloom-grade-1-328537",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/82e12ea3-d33e-4167-ab16-61d79dd501e1.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-1",
+        "batch_class": "All",
+        "batch_id": "659bd03ff50950001822a132",
+        "batch_slug": "eunext-grade-1-871295",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0cd724bc-bf83-43d7-9083-6cba78ad1c1a.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Bloom Grade-2",
+        "batch_class": "All",
+        "batch_id": "6548d0ed6fa61000185f00a1",
+        "batch_slug": "bloom-grade-2-917401",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d8d0f13a-6cdc-4ba7-9698-ec020f1cec86.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-2",
+        "batch_class": "All",
+        "batch_id": "659bd03f33686b0018ba400b",
+        "batch_slug": "eunext-grade-2-341833",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c36ad530-3825-477c-8f22-3092ccbb45cf.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-4",
+        "batch_class": "All",
+        "batch_id": "659bd040485ecf0018811c35",
+        "batch_slug": "eunext-grade-4-201636",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bc18adc6-7afc-4adf-8b5e-01fc095bd33f.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-5",
+        "batch_class": "All",
+        "batch_id": "659bd0402eb8260018c7da48",
+        "batch_slug": "eunext-grade-5-101030",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/72ccc2de-e0d5-436d-a4f3-82b9c989b88c.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-3",
+        "batch_class": "All",
+        "batch_id": "6577f544e1b6990018b81877",
+        "batch_slug": "eunext-grade-3-443263",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/656b9894-42e9-42f2-8315-6871ce495041.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Grade-8",
+        "batch_class": "All",
+        "batch_id": "659bd03eb2cf4e00182eb7ab",
+        "batch_slug": "eunext-grade-8-083947",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0351c166-e1c4-4df4-b597-2dd102aca751.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Bloom Lower KG",
+        "batch_class": "All",
+        "batch_id": "6548d0ed050691001898fefb",
+        "batch_slug": "bloom-lower-kg-118797",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3b8f3a87-aa7f-46e5-835d-97331dd46286.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Bloom Upper KG",
+        "batch_class": "All",
+        "batch_id": "6548d0ec8203c00018f86d21",
+        "batch_slug": "bloom-upper-kg-720222",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3eaebcbc-fc14-4f13-a40f-b9e981d75a12.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Bloom Nursery",
+        "batch_class": "All",
+        "batch_id": "6548d0ee84220b0018c3929d",
+        "batch_slug": "bloom-nursery-321156",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3478dd0e-1fb0-48e5-97f2-71a77753ae16.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "Eunext Nursery",
+        "batch_class": "All",
+        "batch_id": "65b2417c3b9cb7001829ae5b",
+        "batch_slug": "eunext-nursery-782911",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3c337856-d34f-4c48-afd1-5942f216553c.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Lower KG",
+        "batch_class": "All",
+        "batch_id": "65b2417d320acb0018b5bf48",
+        "batch_slug": "eunext-lower-kg-349051",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a07530cd-3942-40ae-a5d5-54e57d86e255.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    },
+    {
+        "batch_name": "EuNext Upper KG",
+        "batch_class": "All",
+        "batch_id": "65b2417e7c1a9f0018353ccd",
+        "batch_slug": "eunext-upper-kg-056189",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c1693827-2b05-471b-97bf-509e8d8448b9.jpg",
+        "batch_exam": "SCHOOL CURRICULUM"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "batch_name": "IPMAT PRO 2025",
+        "batch_class": "12th+",
+        "batch_id": "6613e88915cfe90018ce4e14",
+        "batch_slug": "ipmat-pro-2025-710603",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c7eae524-46bb-4ab7-bf9a-55694f1fd3f8.png",
+        "batch_exam": "IPMAT"
+    },
+    {
+        "batch_name": "IPMAT Free PI Sessions",
+        "batch_class": "12th+",
+        "batch_id": "66584516543a8700187dcbed",
+        "batch_slug": "ipmat-free-pi-sessions-376869",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/53737014-1423-4a74-9080-56efc1c3087d.jpg",
+        "batch_exam": "IPMAT"
+    },
+    {
+        "batch_name": "IPMAT ACE",
+        "batch_class": "12th+",
+        "batch_id": "664ee9da7f1a6c00185d09e4",
+        "batch_slug": "ipmat-ace-761920",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6e9277ee-1524-4278-b363-307f231fd486.png",
+        "batch_exam": "IPMAT"
+    },
+    {
+        "batch_name": "IPMAT Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "65cc558e3c52a100185a0bff",
+        "batch_slug": "ipmat-crash-course-2024-440994",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0de75f17-bde8-4189-8900-6941f4a4cc9f.png",
+        "batch_exam": "IPMAT"
+    },
+    {
+        "batch_name": "MasterQuest IPMAT 2024",
+        "batch_class": "12th+",
+        "batch_id": "648a03a6fa514300184b5ee7",
+        "batch_slug": "masterquest-ipmat-2024-617582",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/86ade611-bb79-4bc9-bbdb-2f40faa5a480.png",
+        "batch_exam": "IPMAT"
+    },
+    {
+        "batch_name": "IPMAT Trail Blazers 2024",
+        "batch_class": "12th+",
+        "batch_id": "648a005e890f750018bad8f0",
+        "batch_slug": "ipmat-trail-blazers-2024-708703",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/83a5c7fc-8c0f-4908-837e-36f4449695ea.png",
+        "batch_exam": "IPMAT"
+    }
+]

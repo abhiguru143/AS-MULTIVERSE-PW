@@ -1,0 +1,42 @@
+[
+    {
+        "batch_name": "UGC NET Real Test Batch",
+        "batch_class": "12th+",
+        "batch_id": "66a0b6e41976e100184864f8",
+        "batch_slug": "ugc-net-real-test-batch-690976",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/8413a35a-25ac-40a4-a424-b3f57bc29df2.png",
+        "batch_exam": "UGC NET"
+    },
+    {
+        "batch_name": "Political Science - Crash Course",
+        "batch_class": "12th+",
+        "batch_id": "663e46e143ee6c001897924d",
+        "batch_slug": "political-science---crash-course-122708",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/49489bc0-47f6-4b60-a8fc-78b75757fbb6.png",
+        "batch_exam": "UGC NET"
+    },
+    {
+        "batch_name": "Sarthak UGC NET",
+        "batch_class": "12th+",
+        "batch_id": "654241d2ffb7480018016d73",
+        "batch_slug": "sarthak-ugc-net-220925",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b30933d2-9529-438f-98b0-a55d713c56d6.png",
+        "batch_exam": "UGC NET"
+    },
+    {
+        "batch_name": "Mission JRF June 2024 - Economics",
+        "batch_class": "12th+",
+        "batch_id": "656dc58afca9420018069edd",
+        "batch_slug": "mission-jrf-june-2024---economics-300597",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/75f6b593-fabd-4c3a-b9c4-f7c50b83f98d.png",
+        "batch_exam": "UGC NET"
+    },
+    {
+        "batch_name": "Mission JRF June 2024 History",
+        "batch_class": "12th+",
+        "batch_id": "656db975d8962f0018bfc3eb",
+        "batch_slug": "mission-jrf-june-2024-history-268256",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d84e0e85-3e30-41ca-af3f-f8915783363c.png",
+        "batch_exam": "UGC NET"
+    }
+]

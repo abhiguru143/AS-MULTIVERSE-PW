@@ -1,0 +1,34 @@
+[
+    {
+        "batch_name": "ESE 2024 - Mechanical Question Practice Series",
+        "batch_class": "12th+",
+        "batch_id": "65c1e2644a34e10018f0e4fa",
+        "batch_slug": "ese-2024---mechanical-question-practice-series-275931",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b9478b73-6219-48e6-9b86-3ae12a370b94.png",
+        "batch_exam": "ESE + GATE"
+    },
+    {
+        "batch_name": "ESE 2024 - Civil Question Practice Series",
+        "batch_class": "12th+",
+        "batch_id": "65c1e2630ceca60018d3f2f4",
+        "batch_slug": "ese-2024---civil-question-practice-series-261797",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b7b15969-f3ed-4951-9d16-c3a63621f8a3.png",
+        "batch_exam": "ESE + GATE"
+    },
+    {
+        "batch_name": "ESE 2024 - Electrical Question Practice Series",
+        "batch_class": "12th+",
+        "batch_id": "65c1e2650c8b1e00181608c8",
+        "batch_slug": "ese-2024---electrical-question-practice-series-461110",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3f2c1d46-aa7e-4a82-8af1-c8e6d8ff45bd.png",
+        "batch_exam": "ESE + GATE"
+    },
+    {
+        "batch_name": "ESE 2024 - Electronics Question Practice Series",
+        "batch_class": "12th+",
+        "batch_id": "65c1e26509297a00180d01a1",
+        "batch_slug": "ese-2024---electronics-question-practice-series-927042",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e69dbc24-7e86-40ab-a589-6ac2b46e0d68.png",
+        "batch_exam": "ESE + GATE"
+    }
+]

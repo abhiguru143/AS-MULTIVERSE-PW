@@ -1,0 +1,514 @@
+[
+    {
+        "batch_name": "Yakeen NEET 6.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65ded9c3c66de20018471ac6",
+        "batch_slug": "yakeen-neet-6-0-2025-819476",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/cec058d9-0968-450f-ae2e-9701ebff0f0c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 3.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65df0dc10a337c0018963bda",
+        "batch_slug": "yakeen-neet-hindi-3-0-2025-810600",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/fa3e32f3-71cc-418a-8917-c5ce388fff4e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 4.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65dee5b41d0ac50018d6319c",
+        "batch_slug": "yakeen-neet-4-0-2025-602365",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bfac49bf-89cd-4fb3-bd7a-cfc977f03e55.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen Plus 2025",
+        "batch_class": "12th+",
+        "batch_id": "66b357cc45855c0018021a9e",
+        "batch_slug": "yakeen-plus-2025-460118",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f7a0385d-29ae-4211-86fb-b67438b90a06.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 5.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65ded79ac66de2001847128f",
+        "batch_slug": "yakeen-neet-5-0-2025-182903",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/95cbda3a-9c8c-4305-9997-9c2ff7a78533.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 2.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65dde0921c60a6001841745d",
+        "batch_slug": "yakeen-neet-hindi-2-0-2025-685237",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/11f0acaa-e721-4931-a84f-4c55f92be084.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 3.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65df0a390a337c001896303e",
+        "batch_slug": "yakeen-neet-3-0-2025-833791",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c2652879-840c-470b-9688-a62bec522fe4.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Gujarati 2025",
+        "batch_class": "12th+",
+        "batch_id": "65dc520f8862110018b2ab1d",
+        "batch_slug": "yakeen-neet-gujarati-2025-568271",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4a581430-0c58-49a7-94a5-8ae52fccb3a6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Bangla 2025",
+        "batch_class": "12th+",
+        "batch_id": "65dc5ae6f7dcfb0018752f55",
+        "batch_slug": "yakeen-neet-bangla-2025-286126",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a84e38dd-4f60-49bc-97ab-3653c5e071b8.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 2.0 2025",
+        "batch_class": "12th+",
+        "batch_id": "65ddb1c46914ab001880f19a",
+        "batch_slug": "yakeen-neet-2-0-2025-801657",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e15da65f-e673-4ed2-9697-dc2500acb022.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 2025",
+        "batch_class": "12th+",
+        "batch_id": "65d777f89966d80018d3d856",
+        "batch_slug": "yakeen-neet-hindi-2025-389563",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f0c391b9-b86d-4560-b168-b38e1019a537.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Endgame 2024",
+        "batch_class": "12th+",
+        "batch_id": "662808b21ade8f0018fcb884",
+        "batch_slug": "neet-endgame-2024-827493",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0485e0e6-0183-4169-98fd-6d650c1dc20e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Maharevision NEET 2024",
+        "batch_class": "12th+",
+        "batch_id": "661e71fa2e52960019142356",
+        "batch_slug": "maharevision-neet-2024-408781",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9dad99eb-4191-4309-b56d-079e180249e5.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 2025",
+        "batch_class": "12th+",
+        "batch_id": "65d7711b0de2ba001844bbab",
+        "batch_slug": "yakeen-neet-2025-951986",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f923489b-a880-4c7a-a2cb-46e08d36155e.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Physics (\u0939\u093f\u0902\u0926\u0940 \u092e\u0940\u0921\u093f\u092f\u092e) Crash Course by MR SIR",
+        "batch_class": "12th+",
+        "batch_id": "660a74bdbd43960018b5eb60",
+        "batch_slug": "neet-physics--\u0939\u093f\u0902\u0926\u0940-\u092e\u0940\u0921\u093f\u092f\u092e--crash-course-by-mr-sir-835553",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d21d65f8-9fdc-403a-833b-489a94cd727b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Batch Prime Yakeen 12th+ NEET 2025",
+        "batch_class": "12th+",
+        "batch_id": "6538f3ce7f69c20018b5424e",
+        "batch_slug": "batch-prime-yakeen-12th--neet-2025-873216",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/705d0786-08c9-4de4-afbb-2b775555ef44.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET Revision Antim Prahar 3 2024 (Kota)",
+        "batch_class": "12th+",
+        "batch_id": "65f1543cb25ac000189b8005",
+        "batch_slug": "dropper-neet-revision-antim-prahar-3-2024--kota--765989",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/de24b503-eed7-45d1-bfb7-49d030aad380.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET Revision Antim Prahar 2 2024 (Kota)",
+        "batch_class": "12th+",
+        "batch_id": "65e9970193296a00182da2c1",
+        "batch_slug": "dropper-neet-revision-antim-prahar-2-2024--kota--534160",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/beea63d2-93b5-4727-8b51-641434a76f8a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Uthaan NEET Batch 2024",
+        "batch_class": "12th+",
+        "batch_id": "65e97eca8b883e0018256e56",
+        "batch_slug": "uthaan-neet-batch-2024-763023",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5f87e40b-15d9-43f9-ba51-43168db8be40.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET Revision Antim Prahar 1 2024 (Kota)",
+        "batch_class": "12th+",
+        "batch_id": "65cdf9e7d9b82b0018fd5ec7",
+        "batch_slug": "dropper-neet-revision-antim-prahar-1-2024--kota--418582",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f43428af-ba46-4978-a4f3-627139c36500.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Important Update (REAL Test 2024)",
+        "batch_class": "12th+",
+        "batch_id": "65e565efa48c930018eba27d",
+        "batch_slug": "important-update--real-test-2024--214380",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/47a40dcc-80d4-4862-a5db-d085925f2ddf.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Ultimate Hindi Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "65a3aa69356f1c001854db97",
+        "batch_slug": "neet-ultimate-hindi-crash-course-2024-670073",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c91dcdf-0f61-4456-a40a-49ca885c1b0c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Ultimate Crash Course 2.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "65a3a3d8eb5e630018eca283",
+        "batch_slug": "neet-ultimate-crash-course-2-0-2024-224230",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3a97410c-829a-4a84-a640-fe418646fca4.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Student Diaries",
+        "batch_class": "12th+",
+        "batch_id": "65c9c167a3a0140018b9d476",
+        "batch_slug": "student-diaries-015363",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/85707080-32f9-4516-9c01-238c4c7ca32e.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Champions Crash Course 2024: Pure English",
+        "batch_class": "12th+",
+        "batch_id": "65a9330d92cf1a0018966764",
+        "batch_slug": "neet-champions-crash-course-2024--pure-english-175022",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/371c6467-96f7-4320-8b70-c2b86f5a9073.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Sarthak MHT-CET Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "658ad13353a8ea0018f2425a",
+        "batch_slug": "sarthak-mht-cet-crash-course-2024-625866",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/0feb3dca-bf2a-4e2d-ba72-9f70ff51c0e4.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Sarthak KCET Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "658ad1331c28d00018acc6fe",
+        "batch_slug": "sarthak-kcet-crash-course-2024-826572",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c06733da-2417-41bc-8f0e-a147394e542f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Gujarati NEET Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "6582ec3f6adf2f001848a5d3",
+        "batch_slug": "gujarati-neet-crash-course-2024-337351",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/a0192729-ca46-4b05-8982-a1b00eea046e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Neet Ultimate Crash Course 2024",
+        "batch_class": "12th+",
+        "batch_id": "656c6821374b740018994cb4",
+        "batch_slug": "neet-ultimate-crash-course-2024-835615",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/00b3c953-65dc-4cc7-812e-96e2467d3706.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Prachand NEET 2024",
+        "batch_class": "12th+",
+        "batch_id": "6561e71925e823001802517f",
+        "batch_slug": "prachand-neet-2024-729533",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/881fe03b-ba16-4145-a919-062dbef295b5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 6.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "6543ac1008eb1900181d4335",
+        "batch_slug": "yakeen-neet-6-0-2024-645247",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/1668dfc4-6623-4660-9863-ad499b587b53.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 3.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "6530dfdc26e20c001986896f",
+        "batch_slug": "yakeen-neet-hindi-3-0-2024-707721",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3083793f-0fd0-494d-b134-7974341bbfad.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 5.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "651159f4fa2d81001873082c",
+        "batch_slug": "yakeen-neet-5-0-2024-977228",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bc87daf1-12cf-4626-8cb3-75b87c0e9e31.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 4.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "64c902cee9a227001833f097",
+        "batch_slug": "yakeen-neet-4-0-2024-796501",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/1b7b5e31-467d-4fe9-9446-93615fdac379.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 2.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "64c901fb452f850018bfc548",
+        "batch_slug": "yakeen-neet-hindi-2-0-2024-545045",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/1d759a48-cb53-443a-87be-befb2d073623.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NCERT Line by Line (YAKEEN YT)",
+        "batch_class": "12th+",
+        "batch_id": "64b7910f6f7a1c0018c94a20",
+        "batch_slug": "ncert-line-by-line--yakeen-yt--145615",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/458f33c4-ed65-4d2d-83dc-4aa812f73801.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 3.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "6489711d65dfc900181ac63e",
+        "batch_slug": "yakeen-neet-3-0-2024-334200",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bf484ef5-80ae-4b0c-90ab-86516a0a9362.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Gujarati 2024",
+        "batch_class": "12th+",
+        "batch_id": "6493e8293df7a800181d05bc",
+        "batch_slug": "yakeen-neet-gujarati-2024-027908",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/f9bda227-2e97-4730-9b95-f86deef77a3c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Pathshala DROPPER NEET 2.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "64993aaba38a37001863c452",
+        "batch_slug": "pathshala-dropper-neet-2-0-2024-326443",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/20cce0e9-8d7d-4485-bd33-0321037db969.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET English 2024",
+        "batch_class": "12th+",
+        "batch_id": "6471af1d226fdf00183ff865",
+        "batch_slug": "yakeen-neet-english-2024-033088",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/6ee0ffc2-b2b1-4a74-93d0-4fc2b67964c5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET Hindi 2024",
+        "batch_class": "12th+",
+        "batch_id": "64637e1d9479b0001805b678",
+        "batch_slug": "yakeen-neet-hindi-2024-130102",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/5a0b8e81-2576-474c-9e72-41a51fc3d326.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 2.0 2024",
+        "batch_class": "12th+",
+        "batch_id": "63fc58ed46bb3f00189d3c6d",
+        "batch_slug": "yakeen-neet-2-0-2024-601447",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/90eba790-b234-48eb-bbeb-2c7320017ce6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Pathshala DROPPER NEET 2024",
+        "batch_class": "12th+",
+        "batch_id": "6399415003e8000018767122",
+        "batch_slug": "pathshala-dropper-neet-2024-082480",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/fbfad700-eae2-47b5-bdb6-7c94ba308d44.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen NEET 2024",
+        "batch_class": "12th+",
+        "batch_id": "63fc57995afeaf0018c9a4b1",
+        "batch_slug": "yakeen-neet-2024-759724",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e8986289-680d-4dc1-9709-fc54e19a9601.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen Fastrack Course",
+        "batch_class": "12th+",
+        "batch_id": "635134af6b0243001191fe8a",
+        "batch_slug": "yakeen-fastrack-course-231638",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4c0d3308-b562-4b6d-bcb8-3c4f0679bef0.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen 3.0 2023",
+        "batch_class": "12th+",
+        "batch_id": "6311e6d672502100174a6c14",
+        "batch_slug": "yakeen-3-0-2023-015950",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/8ca907a0-1dae-44e8-91e5-6ee14ac9fa33.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen English 2023",
+        "batch_class": "12th+",
+        "batch_id": "62e4da6cc3034300115f80b2",
+        "batch_slug": "yakeen-english-2023-692284",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a12ef7c4-bc1c-4cac-9cca-8dfb3f533d58.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen Hindi 2023",
+        "batch_class": "12th+",
+        "batch_id": "62e398d54ec3920018f248c0",
+        "batch_slug": "yakeen-hindi-2023-544651",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ba567d70-e2b8-42ac-8a37-4bd6a66b6569.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen 2.0 2023",
+        "batch_class": "12th+",
+        "batch_id": "62c825d387a0fa001196e753",
+        "batch_slug": "yakeen-2-0-2023-387343",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c91a4730-b948-43d6-a3b5-3512917676d9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Yakeen 2023",
+        "batch_class": "12th+",
+        "batch_id": "628b4fab75ab0500184da8d9",
+        "batch_slug": "yakeen-2023-884005",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3600b657-22d0-49cb-aa62-ff52f5dccb05.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET Yakeen 2",
+        "batch_class": "12th+",
+        "batch_id": "613f3f0b09fa3d001891a954",
+        "batch_slug": "dropper-neet-yakeen-2-939395",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/96c7e1b0-9781-4534-910a-5f30cb779719.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET-Yakeen 2022",
+        "batch_class": "12th+",
+        "batch_id": "60bf55d99dee1c001f2f0981",
+        "batch_slug": "dropper-neet-yakeen-2022-236250",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4f6eebcc-8c81-443e-9390-de372e68c345.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET CRASH COURSE(Relaunch)",
+        "batch_class": "12th+",
+        "batch_id": "604f26b4089970015e0cf27d",
+        "batch_slug": "neet-crash-course-relaunch--187027",
+        "batch_banner": "https://d1qs8w2pzjtoy9.cloudfront.net/5eb393ee95fab7468a79d189/98b4dfb2-fb93-4df8-8497-e105862f357b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Dropper NEET -Yakeen for NEET 2021",
+        "batch_class": "12th+",
+        "batch_id": "5f709ef9046c60012e0bf622",
+        "batch_slug": "dropper-neet--yakeen-for-neet-2021-708271",
+        "batch_banner": "https://d1qs8w2pzjtoy9.cloudfront.net/5eb393ee95fab7468a79d189/c75ab90f-f241-488c-82d1-8d3a7df8d89f.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NCERT Line by Line 2025",
+        "batch_class": "12th+",
+        "batch_id": "66b72bd5ff8b6500185100c1",
+        "batch_slug": "ncert-line-by-line-2025-262577",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/5e809fde-519e-4d5a-b005-f9e319f97e1b.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "YNRB2024",
+        "batch_class": "12th+",
+        "batch_id": "6523a2d3ebd0e400187c1c41",
+        "batch_slug": "ynrb2024-424424",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/7275e72c-f931-4520-a91b-7a364ffa3d39.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Biomolecules",
+        "batch_class": "12th+",
+        "batch_id": "6521371e791fa900186dfb48",
+        "batch_slug": "biomolecules-953073",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1b3e0bf2-7cdf-4faa-9153-504d1c97afba.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "11th & 12th NEET - NCERT Punch",
+        "batch_class": "12th+",
+        "batch_id": "6632168f074c2100180e95a8",
+        "batch_slug": "11th-and-12th-neet---ncert-punch-808069",
+        "batch_banner": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Selection Express 2023 (PW Hindi)",
+        "batch_class": "12th+",
+        "batch_id": "6428090f4e8fca00187ed4e8",
+        "batch_slug": "neet-selection-express-2023--pw-hindi--839211",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4a3bf8ec-21e8-45e8-be43-2fc36da02822.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "UMMEED NEET 2024",
+        "batch_class": "12th+",
+        "batch_id": "65c0d33029e3dd00181b1df9",
+        "batch_slug": "ummeed-neet-2024-227282",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/4890973c-fd9a-4d22-aa3f-6acad080a81a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "UMMEED NEET Hindi 2024",
+        "batch_class": "12th+",
+        "batch_id": "65c0d3307f90170018dbe5b7",
+        "batch_slug": "ummeed-neet-hindi-2024-312711",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f3a5626f-e1d8-4cdb-bc5d-22c2f6753308.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "MIP Dropper NEET 3.0",
+        "batch_class": "12th+",
+        "batch_id": "64c030255e050e0018816356",
+        "batch_slug": "mip-dropper-neet-3-0-025644",
+        "batch_banner": "https://graph.org/file/42082165097e0a0a287f8.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Ummeed 2023",
+        "batch_class": "12th+",
+        "batch_id": "63ed31a6f189ac0018436762",
+        "batch_slug": "ummeed-2023-650019",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4f7262f9-6fe9-4296-b540-3991739a9344.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET REVISION EXPRESS",
+        "batch_class": "12th+",
+        "batch_id": "669f83d408536b0018292149",
+        "batch_slug": "neet-revision-express-171558",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/25e3077a-8c53-4df2-8009-ff505e54a689.jpg",
+        "batch_exam": "NEET"
+    }
+]

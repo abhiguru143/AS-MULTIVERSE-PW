@@ -1,0 +1,2442 @@
+[
+    {
+        "batch_name": "Vidyapeeth 14-YN501MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "668d2262b2face0018850709",
+        "batch_slug": "vidyapeeth-14-yn501ma-2024-184698",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/266e9f1e-9f6d-486e-ad81-32723fc93cd9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN351T2 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "669cfa152b90fd00186827c8",
+        "batch_slug": "vidyapeeth-12-an351t2-2024-460338",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6c935244-f1fc-4d5b-98ef-02e10241a8a6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-YN301T2 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "669d3852f668260018572ad8",
+        "batch_slug": "vidyapeeth-44-yn301t2-2024-916904",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/18a4d7b5-b698-462c-9aa5-d177f18f096c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069792a4cb890018ee65e4",
+        "batch_slug": "vidyapeeth-11-ln101ea-2024-822429",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/10d92b7f-05ba-4aee-9acc-1a3fdd281a3b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-YN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66864d953a5dbc00185b68ca",
+        "batch_slug": "vidyapeeth-44-yn401ea-2024-935752",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0252c11d-b0d0-4081-806f-d08598ed8427.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN451EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "667a7f48d447e20018369c03",
+        "batch_slug": "vidyapeeth-12-an451ea-2024-381684",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e4750f10-5b06-43db-9293-364f0643217d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-YN401MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6687e09be54cef001868aea4",
+        "batch_slug": "vidyapeeth-32-yn401ma-2024-231607",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0fa77e44-96ab-44a3-bf09-275021b6f86c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 43-YN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66791c96ab4a3a0018e65ba4",
+        "batch_slug": "vidyapeeth-43-yn401ea-2024-239010",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/41e59ae1-45a6-4565-8c62-e0954d4c8f70.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 14-YN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "666aa0a95342550018dcef55",
+        "batch_slug": "vidyapeeth-14-yn401ea-2024-007593",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5fa99428-ba67-460a-b3e4-b3aee72cac6b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN403EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "667a66a41fb7ca0018198710",
+        "batch_slug": "vidyapeeth-11-yn403ea-2024-759491",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/01620ccf-806f-4fd2-94a4-32b8f98dfd2e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN21MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "666d430eb50b510018815ff2",
+        "batch_slug": "vidyapeeth-yn21ma-2024-838071",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c329a76c-f2f8-4be3-97dd-0b6bb6981a3d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-AN501EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66584e039c22c40018eeb931",
+        "batch_slug": "vidyapeeth-38-an501ea-2024-177415",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8454b97b-db5b-4e86-ad6e-0b4e1df73421.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-AN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66584e039c22c40018eeb931",
+        "batch_slug": "vidyapeeth-38-an401ea-2024-175782",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/f08fc6ea-371d-488b-936c-5113a52cfb9a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-YN401MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6662acf5e33133001899da3f",
+        "batch_slug": "vidyapeeth-34-yn401ma-2024-592228",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/25ab5c12-44ea-4452-b91d-5d039c6d38d4.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 62-YN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66716da6d3666b001885ab22",
+        "batch_slug": "vidyapeeth-62-yn401ea-2024-759967",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/22791ab4-5d66-4652-9586-1366dc629133.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 25-ANA01EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66768ece54813e001855ba37",
+        "batch_slug": "vidyapeeth-25-ana01ea-2024-580811",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/81c9fe78-21db-4a41-aeed-a9deeaffd104.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN421EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6664123431abc4001845494b",
+        "batch_slug": "vidyapeeth-12-an421ea-2024-728355",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/97871ac8-a63d-47ee-9628-bc00bb4d2c00.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-AN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6666a326786c9100185be71a",
+        "batch_slug": "vidyapeeth-28-an401ea-2024-116010",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ec738455-995d-4da2-a9d9-7083c28385b6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-YN401NA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6673ce0294ed8a0018747fe4",
+        "batch_slug": "vidyapeeth-32-yn401na-2024-366233",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/259d845c-1343-4ca7-ac27-16058da82974.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-YN402MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66716da6f520b60018576c36",
+        "batch_slug": "vidyapeeth-13-yn402ma-2024-161098",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/61e32d35-2ad8-4ac7-9f02-f17bd66c7976.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN23MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "666d430d4ce5b900180c353d",
+        "batch_slug": "vidyapeeth-yn23ma-2024-898781",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/e9351696-6d86-4cc5-a610-1f5ae5b11a49.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-AN421MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6666a3269dc2e200184dbc81",
+        "batch_slug": "vidyapeeth-41-an421ma-2024-950344",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f70cc4e7-3de8-4e8b-8e64-cefc48a2f0d9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 60-YN401EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "664ed5918400a80018c170ee",
+        "batch_slug": "vidyapeeth-60-yn401ea-2024-978419",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/934d3262-6a11-4802-b6b7-d79d1a8832ec.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 43-YN401MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "666aa035f83acc00185aa76b",
+        "batch_slug": "vidyapeeth-43-yn401ma-2024-427466",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0a52edfc-044b-40a2-82aa-ea6785aa7e49.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6654328b11035400182001ec",
+        "batch_slug": "vidyapeeth-11-an301ea-2024-068717",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1a9e3fd1-d641-45f2-95f4-d2860e76f945.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN352MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66503decf57ee00018dffa3e",
+        "batch_slug": "vidyapeeth-12-an352ma-2024-668886",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e7d51459-def6-4344-aa9f-1a966d21dcde.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-YN401MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6667ee0f21cd450018ecd23e",
+        "batch_slug": "vidyapeeth-13-yn401ma-2024-740773",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d11523af-abf1-4644-ac74-02bacc965b44.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-YN321MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66518001924d5b00184de456",
+        "batch_slug": "vidyapeeth-47-yn321mh-2024-060363",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/36dc959c-7911-4c37-ac23-594d61f4682d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-YN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "665180008cfa6c0018f19ecc",
+        "batch_slug": "vidyapeeth-47-yn301ea-2024-202932",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/18587764-f69a-4169-95e9-33ef04d98c62.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6661767daeec9b00189dce56",
+        "batch_slug": "vidyapeeth-32-yn301ma-2024-838283",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/92ab0787-9f62-4703-9f98-ade3d79e8c36.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "666405584f0955001859de53",
+        "batch_slug": "vidyapeeth-11-yn301ea-2024-894840",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c67f943-00f7-406e-8b94-791cf67df144.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-YN422MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66518001924d5b00184de456",
+        "batch_slug": "vidyapeeth-47-yn422mh-2024-743985",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/7e622c21-b132-4ca0-abe0-2901dfce1e15.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-YN302MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66695c4748093f0018d34d8a",
+        "batch_slug": "vidyapeeth-32-yn302ma-2024-695472",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ad722eb7-8150-42e1-8b4a-a39f3e8bb3bb.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-LNA01EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "665eb7c421ff8900186c8f55",
+        "batch_slug": "vidyapeeth-28-lna01ea-2024-461653",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c80bea6-1d04-4212-b89a-2e928336235e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN351EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6645ca0d1679ec0018d262cf",
+        "batch_slug": "vidyapeeth-12-an351ea-2024-072507",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ffc6e4d2-c76c-4ccc-8a5d-2032fd89c96d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6635ef3889cb5c0018fe4a9f",
+        "batch_slug": "vidyapeeth-34-yn301ma-2024-734730",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/99bb4bcd-f768-4ac9-ba6a-684bd98b8e12.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-AN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6645b0dc6ae2220018ea5b0d",
+        "batch_slug": "vidyapeeth-44-an301ma-2024-523751",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/af02723c-0dad-4731-9a12-9135ba6f2442.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN301EH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66334204df0f1e001824f1bc",
+        "batch_slug": "vidyapeeth-11-yn301eh-2024-181927",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/86394f1a-fc29-4610-981c-7c8b112c8134.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-YN321MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "663a1f74df16360018816ae8",
+        "batch_slug": "vidyapeeth-34-yn321ma-2024-365327",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/2ef82b02-b083-4835-a7d4-02ebf74f2a77.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN351MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6641f3295680dc0018415d74",
+        "batch_slug": "vidyapeeth-12-an351ma-2024-609184",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/47716fbb-974a-4b0d-9251-52a3e7ef27d3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN201MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "664af4b9bd325600185d77f8",
+        "batch_slug": "vidyapeeth-11-an201mr-2024-319144",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ff09cc30-6cdf-4dfa-817d-155bde6b1349.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN402EH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66334204df0f1e001824f1bc",
+        "batch_slug": "vidyapeeth-11-yn402eh-2024-632462",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/27c3401f-b878-4e34-a9d6-d9456932a2b1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "664ed590077b2e0017db1157",
+        "batch_slug": "vidyapeeth-26-yn301ma-2024-887699",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c6c4d7e3-9900-43f8-8f68-80293fb54cf3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 51-AN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66504775ae8e0a00180dded0",
+        "batch_slug": "vidyapeeth-51-an301ea-2024-741763",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2bced9c3-d036-451c-bf6a-d069264e4cd7.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN301MB 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6643209c56ed520018d92098",
+        "batch_slug": "vidyapeeth-11-yn301mb-2024-003765",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cd0db13b-f01e-4e5c-8c45-2440f9967701.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 48-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "664c3d504223e900184a1b1c",
+        "batch_slug": "vidyapeeth-48-yn301ma-2024-197751",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d78c9f68-fa98-429c-9419-fa04a627f5eb.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN353MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6630b15c86b035001818504d",
+        "batch_slug": "vidyapeeth-12-an353ma-2024-094889",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/16816bea-4d5b-4e08-97ac-0d78048caf5f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 62-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662f4bf4db048000180011cb",
+        "batch_slug": "vidyapeeth-62-yn301ma-2024-640729",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8e752aad-ecc9-4f3d-84bf-2c6ec3cf5ab3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 43-YN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6645b103c4925e00189487e8",
+        "batch_slug": "vidyapeeth-43-yn301ea-2024-570467",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b809e031-a1c0-4f74-aa68-6770da4e4d37.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN451MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6630b15c21b8b00018c4da13",
+        "batch_slug": "vidyapeeth-12-yn451mh-2024-048580",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/bfbad5c4-04df-4704-b26a-1bf53f237d0a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN352EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662f81707b37ca0018ec70ad",
+        "batch_slug": "vidyapeeth-12-an352ea-2024-581059",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dc1f702e-52ce-449b-b2ba-9a4b59017602.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN301EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662f4de1b7b0b100181d166b",
+        "batch_slug": "vidyapeeth-11-ln301ea-2024-989321",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5f4e744d-807d-49ff-8660-3ed560d81e68.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-AN221MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "663a1f7475576e00195c4daa",
+        "batch_slug": "vidyapeeth-21-an221mr-2024-752690",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/7f3601d3-99d6-482d-8883-13134b359738.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 20-YN302MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6635e14833a43a00185d7b94",
+        "batch_slug": "vidyapeeth-20-yn302ma-2024-304959",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6bd58221-6ad9-4804-8eda-4d1aeb7e3cb1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-YN302MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662ccc6d73b9730018aced64",
+        "batch_slug": "vidyapeeth-38-yn302ma-2024-245771",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/88201840-a7bf-41c0-b44b-0b74cbf87e7a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-YN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6631ee1eab9acc0018ee8558",
+        "batch_slug": "vidyapeeth-47-yn201ma-2024-795224",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/db70d71b-c938-422e-97db-2df6153d4318.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-YN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66435b22ac17230018d122cd",
+        "batch_slug": "vidyapeeth-32-yn202ma-2024-904412",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e8a4d704-ffa6-4889-8d0b-5e2da4985e5f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN11MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f248a51d670018774397",
+        "batch_slug": "vidyapeeth-yn11ma-2024-536454",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/684f6e14-8061-4c21-aaaa-ae1460e8bd3b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-AN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662ccc6bd0de0900189195e7",
+        "batch_slug": "vidyapeeth-28-an301ma-2024-804921",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7c4ede76-6ec7-410b-85e4-8c1513807382.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LNA21MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66435b263c383f0018e5540c",
+        "batch_slug": "vidyapeeth-12-lna21ma-2024-977824",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/027b6c04-4c63-4849-8890-5c8f93d19d63.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN12MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f24754eeda0018ece691",
+        "batch_slug": "vidyapeeth-yn12ma-2024-899697",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/86e4c8ac-9fa7-4c93-9bd5-e3f7e05e96cc.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-YN221MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6631ee1e7b1e07001816172e",
+        "batch_slug": "vidyapeeth-47-yn221mh-2024-625745",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3e79f1e2-f402-4752-ab70-e99e744ddce6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 31-YN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "663f2812fad47100184d2daf",
+        "batch_slug": "vidyapeeth-31-yn201ma-2024-523969",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9a8f5639-2187-495f-a8be-6e4bce9d1199.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 54-YN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "663892c3cee155001822cbcb",
+        "batch_slug": "vidyapeeth-54-yn301ma-2024-711660",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5f416e81-ba9f-4890-bac6-57579137855b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN322MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "661fa0a672c0000018be88c7",
+        "batch_slug": "vidyapeeth-12-an322ma-2024-813006",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/31cbd54c-5137-461f-8ab7-012457247bd3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN13MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f2488b34c300180eecb9",
+        "batch_slug": "vidyapeeth-yn13ma-2024-517206",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d6059df2-7dc9-4f3b-b515-067f15356966.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 36-AN302MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603f415d78047001887a318",
+        "batch_slug": "vidyapeeth-36-an302ma-2024-769929",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/cca8aca5-5534-44b0-8ffb-ef70f8c66d47.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-LN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611156ab8c3bc0018645eef",
+        "batch_slug": "vidyapeeth-44-ln202ma-2024-231162",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6ae04729-b724-474d-8cb0-eb3a1b19cc80.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 33-AN202EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66335f2c1db5ac00189d1711",
+        "batch_slug": "vidyapeeth-33-an202ea-2024-548233",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ebc5097b-ed4c-45f6-818e-7332902b28dd.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN201EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "661e36de5b2d5b00188ca21b",
+        "batch_slug": "vidyapeeth-11-an201ea-2024-049455",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eb7a658e-297f-475f-8b0e-bc454d57d26f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN102MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "661cd3114479d9001802a16a",
+        "batch_slug": "vidyapeeth-11-yn102mr-2024-990892",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d48c607d-e61c-4472-aca5-328eef162e66.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 52-YN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "662772cb49df630018d8e7aa",
+        "batch_slug": "vidyapeeth-52-yn202ma-2024-646779",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b907c269-41a8-4753-9c6e-c8da55393c91.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN351EH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6629fca625704a00193a6d3e",
+        "batch_slug": "vidyapeeth-12-an351eh-2024-709403",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/699b9274-2f17-436b-aba0-e930dbeefb35.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth LN11MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f247d14edc0018f86f3d",
+        "batch_slug": "vidyapeeth-ln11ma-2024-987485",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ce21105-a61b-4e8f-8252-c29698a1b499.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN12MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66276376c27ac10018e6bf52",
+        "batch_slug": "vidyapeeth-an12ma-2024-761728",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f1dd15c9-016f-4301-a9fe-61b8eaba8c9a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN13MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611007a9174cc0018f2c4c0",
+        "batch_slug": "vidyapeeth-an13ma-2024-278373",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/46612854-b030-4881-8824-e3d213230cda.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-AN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "661fc5f8f63dd70018fc165a",
+        "batch_slug": "vidyapeeth-21-an301ma-2024-636252",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/69715f2d-35f1-43cf-90d4-39189882b7c7.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 17-AN351EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6617e8621ff8fd0018c17072",
+        "batch_slug": "vidyapeeth-17-an351ea-2024-561976",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/427d85d9-841e-471d-89c5-0509bf6e34ed.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-AN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6620c5b67a6e9f00181b5436",
+        "batch_slug": "vidyapeeth-44-an201ma-2024-792338",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ad6e2050-f02f-49b7-8eb0-06f4498eeeef.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 51-AN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6604f7751ee48b0018d9faea",
+        "batch_slug": "vidyapeeth-51-an202ma-2024-675030",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/5cddeedb-b17d-47f7-b700-71c299a8bedc.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-YN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606571b0552f70019920d9a",
+        "batch_slug": "vidyapeeth-44-yn202ma-2024-996641",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/28a91fda-b060-4935-ba9a-17903f6387c6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 16-YN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6607ce25ece5bc0019dfd2c1",
+        "batch_slug": "vidyapeeth-16-yn201ma-2024-789357",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1258e5e9-6b04-4b72-9ef8-38c465ef255e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-YN302MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606571b0552f70019920d9a",
+        "batch_slug": "vidyapeeth-44-yn302ma-2024-476709",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/b0b6fa18-afff-4ad6-a366-c273da1aca86.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-AN103MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66051e102cd0600018a71084",
+        "batch_slug": "vidyapeeth-44-an103ma-2024-238877",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d5c3b5ef-b394-46b0-b68f-2aa33bebd57c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-YN222NA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660650bf8308d60018902e2b",
+        "batch_slug": "vidyapeeth-21-yn222na-2024-559428",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/9a08ed3c-3fd8-4243-a467-b645e07e8721.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN222MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069ef92347540018fb1dd6",
+        "batch_slug": "vidyapeeth-12-yn222ma-2024-751892",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/2981a053-e985-4e03-b175-16b577d1872f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN301MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd72f11f667900188e3a56",
+        "batch_slug": "vidyapeeth-11-ln301mh-2024-871644",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d9a6432c-fef4-4b36-819f-1f87ad0a3312.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN322MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069ef92347540018fb1dd6",
+        "batch_slug": "vidyapeeth-12-yn322ma-2024-851191",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/c98471bb-7f4f-46fa-be1a-7388a39d9d41.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 52-YN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66053d9d632a39001865414d",
+        "batch_slug": "vidyapeeth-52-yn101ma-2024-689092",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/413fa36a-6753-4d83-85da-b9000baa82a9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 51-LN251MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660691752efffb0018e3fd0c",
+        "batch_slug": "vidyapeeth-51-ln251ma-2024-816047",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d799e08e-e09e-4794-9b96-bda20c3c0e7b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN101MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660bb41b2e47ff00180292eb",
+        "batch_slug": "vidyapeeth-11-ln101mr-2024-948883",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e0599320-3cad-49d6-93c3-50ef383562d6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN101MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606979314bf6500187705ce",
+        "batch_slug": "vidyapeeth-11-an101mr-2024-962647",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bf0502a3-dbb7-4d8c-9aab-6bea09f60736.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 48-YN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611156afc9baf0018bbc82b",
+        "batch_slug": "vidyapeeth-48-yn201ma-2024-384584",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/57bb2565-ba96-490e-923f-0c665a6b642d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN101MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660697932efffb0018e40d12",
+        "batch_slug": "vidyapeeth-11-yn101mr-2024-618963",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d3844f81-9142-408c-aaf2-b893b3e5e675.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN251EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66190cee1597fe0018a82fd6",
+        "batch_slug": "vidyapeeth-12-yn251ea-2024-697723",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/764a5ee3-e4cd-465d-952e-9c2e7fba3481.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-YN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9a8d6ba140018832836",
+        "batch_slug": "vidyapeeth-13-yn102ma-2024-685069",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1fb3991e-0926-42ec-98ae-c47cd337db17.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth P20-AN11ED 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660b9ae0c31d09001936dba2",
+        "batch_slug": "vidyapeeth-p20-an11ed-2024-816252",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bb30ebfa-0a60-4afc-9926-78162357bd3e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-AN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66051e0f16ea620018131e88",
+        "batch_slug": "vidyapeeth-44-an102ma-2024-871587",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/24ebb4b9-8fde-496d-82c0-c9589c7f6ab5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 33-AN201EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6602c4b5f4f63100188d46f9",
+        "batch_slug": "vidyapeeth-33-an201ea-2024-072823",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e8d616bd-b9aa-4d5b-989a-55ddb396eaf3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 23-AN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66039aa5d78047001886ec3e",
+        "batch_slug": "vidyapeeth-23-an201ma-2024-537107",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ad25302c-79f9-4b40-826d-5547a2613f8b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-YN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9a84087c80018ff9bad",
+        "batch_slug": "vidyapeeth-13-yn101ma-2024-598916",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9682a250-6044-4011-bdea-aa8679a3987d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN222MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660fd5e6fab197001884c239",
+        "batch_slug": "vidyapeeth-12-an222ma-2024-024800",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bb2919e4-56e4-46ad-972b-63f88ff493ce.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-ANA51MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660fd5e5335e0c00186a3504",
+        "batch_slug": "vidyapeeth-12-ana51ma-2024-723517",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/67c7fb1a-9655-46c2-8778-a33465609765.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN13EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611007a4012d80018aa74a5",
+        "batch_slug": "vidyapeeth-an13ea-2024-718980",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/51154874-e8b0-4f6a-9baf-edd19cb10853.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth YN21MD 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "667406288bcd0000186fa942",
+        "batch_slug": "vidyapeeth-yn21md-2024-701376",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0f1e092d-f552-41d0-87d3-47469a27cab1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 44-YN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606571bbf39f3001800f37a",
+        "batch_slug": "vidyapeeth-44-yn101ma-2024-106178",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/51de4c86-b9ce-4452-8692-ab1ce6abe97d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN352EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66190cee1597fe0018a82fd6",
+        "batch_slug": "vidyapeeth-12-yn352ea-2024-616337",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5551805e-f253-4528-9cda-5583ba334737.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN12EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611007a6f8a1a00189241a2",
+        "batch_slug": "vidyapeeth-an12ea-2024-194133",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8c7e045d-bce4-41c5-8ad3-438fa2b1a22a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth LN12EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f2466b73ac0018e1a939",
+        "batch_slug": "vidyapeeth-ln12ea-2024-622962",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0b326e0b-be57-415a-a652-36d417b359b8.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-AN101MR 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66114a5bdb775500186078d2",
+        "batch_slug": "vidyapeeth-41-an101mr-2024-059952",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4b04d1f8-e042-4bd4-bf86-57d6577c698c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-YN202MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603de382421a20018c93574",
+        "batch_slug": "vidyapeeth-34-yn202mh-2024-397585",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/17a27e3c-eaeb-43e3-a123-7428f394a37d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth LN11EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f2461b295a00189fec76",
+        "batch_slug": "vidyapeeth-ln11ea-2024-873921",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/628cb272-70d9-4f4d-b99d-cf86ea9f3016.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN255MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6613bac4c85d990019768ad7",
+        "batch_slug": "vidyapeeth-12-an255ma-2024-215720",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/a08cee18-266e-4b43-88fb-e397d2017c62.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN11EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6611007b6fb8df0019be679b",
+        "batch_slug": "vidyapeeth-an11ea-2024-806435",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d251159f-fbba-4eec-ac66-d3c4d9b33dc2.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN222EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82524738900181c43e4",
+        "batch_slug": "vidyapeeth-12-an222ea-2024-778941",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/8b32df51-4679-4c12-b2b4-1ba68d3088d6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth LN13EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6610f245a51d670018774393",
+        "batch_slug": "vidyapeeth-ln13ea-2024-650604",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dcd052c7-d538-4e11-bc21-adc9ae50896a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN152EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660ad65935e4400018f478f9",
+        "batch_slug": "vidyapeeth-12-an152ea-2024-896709",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/efb81c20-c692-49d3-b43b-cd3decab3213.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN153MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660ad65aa9c9d20018b741ed",
+        "batch_slug": "vidyapeeth-12-an153ma-2024-181929",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a76f0d2c-71b2-4d88-b4b0-6c4856e3567f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 60-LN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606bb0914bf6500187759a2",
+        "batch_slug": "vidyapeeth-60-ln201ma-2024-282699",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/8a188719-d8dd-4ff9-b33e-75529c957f11.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-LN221MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66190cec1597fe0018a82fcf",
+        "batch_slug": "vidyapeeth-32-ln221ma-2024-965167",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/916a12df-9eec-4df0-9e67-a0577bcde5ab.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6613bac41e5d830018ae8df7",
+        "batch_slug": "vidyapeeth-11-an102ma-2024-910838",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e754f6d8-2576-4d2c-9620-f43a5e8bb06f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN154MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660e89323992740018e19a01",
+        "batch_slug": "vidyapeeth-12-an154ma-2024-127905",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3e185def-fe4e-44ef-a3a7-a3729d025852.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN253MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660ad65aa9c9d20018b741ed",
+        "batch_slug": "vidyapeeth-12-an253ma-2024-995172",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4f8848c4-5650-4442-8be6-ce17883911a2.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN253EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660ad65935e4400018f478f9",
+        "batch_slug": "vidyapeeth-12-an253ea-2024-490721",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d3c3b3e2-4cb2-4573-a05d-b00526cd0d22.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 25-YN202MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9ace75b640018fe1160",
+        "batch_slug": "vidyapeeth-25-yn202ma-2024-964130",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/97fb6aa4-429d-4458-af01-69c86ee87763.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 24-AN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6604169af4f63100188e828f",
+        "batch_slug": "vidyapeeth-24-an101ea-2024-501197",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f22d49ba-a824-4ded-9040-bf9ea9468d84.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN201MH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd72f2c6a65e0018aaccc6",
+        "batch_slug": "vidyapeeth-11-yn201mh-2024-712806",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e766ba19-a0e9-4a26-9ab6-d3c25242c4d7.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN101MB 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd72f272c3da001898885f",
+        "batch_slug": "vidyapeeth-11-yn101mb-2024-246008",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ad8318ef-d39f-49b6-9815-8a51d7de2d83.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 18-AN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66050baa3462710018a320ff",
+        "batch_slug": "vidyapeeth-18-an101ea-2024-497185",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/61cbfa61-3deb-4ce5-a268-50f5f5f8d77d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 20-LN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6605328853fcbb0018e07990",
+        "batch_slug": "vidyapeeth-20-ln121ea-2024-984080",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/36d94f95-7db0-445e-b8b0-f96df4a49d2b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-AN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660569eebd286f0018427c29",
+        "batch_slug": "vidyapeeth-21-an121ea-2024-194208",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a9862f1e-0fab-4cae-852e-bbd969fc706a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN160EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069ef8140737001874b140",
+        "batch_slug": "vidyapeeth-12-ln160ea-2024-023347",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ee15570a-9eb6-4291-90a1-2cedc3b2a642.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-LN222EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660569efa7780e00185a8e68",
+        "batch_slug": "vidyapeeth-21-ln222ea-2024-957615",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3ced8f72-f158-410f-8560-9a9ec40e7892.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 48-LN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660fda50335e0c00186a3c8f",
+        "batch_slug": "vidyapeeth-48-ln201ma-2024-251027",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c5fdca80-4b6d-4085-923c-31024681573b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 30-YN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6602ef5e4f2b80001866188d",
+        "batch_slug": "vidyapeeth-30-yn102ma-2024-069962",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/47739c4d-0374-4af1-88c7-7a61143da917.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-LN223MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660569f0c282e00018ab60d9",
+        "batch_slug": "vidyapeeth-21-ln223ma-2024-628116",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/99277e66-fcc9-4ff1-a24a-1c674a510640.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN260EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069ef8140737001874b140",
+        "batch_slug": "vidyapeeth-12-ln260ea-2024-548073",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/034483be-c775-49dc-8358-56635128ebf3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-AN121MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660569ee127a2a001820c29a",
+        "batch_slug": "vidyapeeth-21-an121ma-2024-557754",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cbe6af82-2641-477a-ba7d-e421262b36e5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN152MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606a54eb86e830018b686c2",
+        "batch_slug": "vidyapeeth-12-an152ma-2024-153156",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c750eef4-1708-489d-8ff9-5c12393d0b37.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 20-LN121MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6605328accb3ce0018ffa175",
+        "batch_slug": "vidyapeeth-20-ln121ma-2024-753790",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f7157b72-d936-4384-8a52-6fafa446dc1a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606979214073700187494fb",
+        "batch_slug": "vidyapeeth-11-ln101ma-2024-783104",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/978854a6-cacd-4273-8c98-6aeea04846a6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660697933d7d7500189295d4",
+        "batch_slug": "vidyapeeth-11-an101ea-2024-487664",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2cd51b15-125d-40d3-9880-459fab443069.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 51-LN221MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069791ba6fe20018f89ae5",
+        "batch_slug": "vidyapeeth-51-ln221ma-2024-903139",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/bf58ba3a-411f-43aa-9e22-8ade73e70325.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-AN103MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9a7f4f63100188ddbcc",
+        "batch_slug": "vidyapeeth-13-an103ma-2024-949139",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1e650902-04ea-4bed-afc0-b1ae31f4de57.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 24-YN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66041efe2421a20018c9b35c",
+        "batch_slug": "vidyapeeth-24-yn102ma-2024-975835",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d55f7cc7-f8a3-4d62-85a6-58307fa35694.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-AN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9a63a254a0018d42903",
+        "batch_slug": "vidyapeeth-13-an102ma-2024-089403",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/29fd18e2-0096-4f13-9130-7b4f425afe53.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 47-LN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6607a341e8db08001848c02c",
+        "batch_slug": "vidyapeeth-47-ln101ma-2024-112430",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/87ffa061-6801-476d-aa15-f914eafac2c3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 36-AN301MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603f415d78047001887a311",
+        "batch_slug": "vidyapeeth-36-an301ma-2024-375382",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c8430b66-145a-491c-9297-a53eba4ec353.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-AN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603b9a38960cb00185b0a94",
+        "batch_slug": "vidyapeeth-13-an101ma-2024-985509",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cad1919a-0c52-46c9-93d8-02278a1c008e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 14-YN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66041efd9f1fa500187fb978",
+        "batch_slug": "vidyapeeth-14-yn101ma-2024-968468",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b2c47902-3e5b-4861-b3c4-1ffd7ffc2d82.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 27-LN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66053a836f71cb0018ee4d1f",
+        "batch_slug": "vidyapeeth-27-ln121ea-2024-776107",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f7671f14-55ac-4253-aa5a-d25209178d6d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 14-AN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660416982c92270018e027fa",
+        "batch_slug": "vidyapeeth-14-an101ea-2024-713805",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/88209aeb-5514-49c2-a596-db46269cf4da.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-AN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603ed0e65941c0018327e0d",
+        "batch_slug": "vidyapeeth-28-an101ea-2024-873672",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8570cad1-9e08-4f49-b633-7c73b28d0d4d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 14-YN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66041efed0eb070018b29355",
+        "batch_slug": "vidyapeeth-14-yn101ea-2024-466027",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7f969646-34b1-48f6-ad9e-3f74fb1400cd.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 18-LN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6606b6cda1250b001850fef7",
+        "batch_slug": "vidyapeeth-18-ln101ma-2024-314486",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3500e199-a288-4b0a-8f20-4df42bda9894.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-AN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603ed0e2de72800187ac167",
+        "batch_slug": "vidyapeeth-28-an101ma-2024-029473",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0298b30c-27eb-49de-96ec-9a51d356a947.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-LN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66054501127a2a0018208554",
+        "batch_slug": "vidyapeeth-41-ln121ea-2024-720119",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9620e8e0-c236-4b8a-aa05-2bb16cf1f84d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN151MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed81f724b9b00181d5438",
+        "batch_slug": "vidyapeeth-12-an151ma-2024-015899",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/da1f32e2-ca68-4b1c-9379-f681c704fdec.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-LN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66064eb38308d60018902b6a",
+        "batch_slug": "vidyapeeth-41-ln101ea-2024-822262",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7f5cae87-eed5-46fc-936c-c9ea85d1b1da.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-LN122MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66054501fc60a70018c0b7f3",
+        "batch_slug": "vidyapeeth-41-ln122ma-2024-603221",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f905b11d-ef7d-41e1-8a55-dd2f6ad42170.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-LN201WA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66055c177fb047001913a173",
+        "batch_slug": "vidyapeeth-13-ln201wa-2024-978968",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/8e333296-0041-48c6-b67d-5d1412f70ae5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-LNA01EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66055c14b06c7500181c9bd2",
+        "batch_slug": "vidyapeeth-13-lna01ea-2024-374776",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/79544e9c-f23a-4039-b0d2-4df62d240032.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 13-LN203EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66055c148a15430019dce2cd",
+        "batch_slug": "vidyapeeth-13-ln203ea-2024-335703",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/0c6a6e39-052e-4653-bb16-e4bffeb13455.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN221MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed8257f562f0018aa1685",
+        "batch_slug": "vidyapeeth-12-an221ma-2024-654042",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/13e57887-3aa7-4042-84ec-33531e3c85c3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN156EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed829687ece0018375bcb",
+        "batch_slug": "vidyapeeth-12-ln156ea-2024-078363",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2a2ddfb7-191b-422f-9826-bc863feb090b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN152MP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82bb34a7f0018e8c30e",
+        "batch_slug": "vidyapeeth-12-ln152mp-2024-217069",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c460b9f-25fe-43ed-bea6-d7a399424640.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN160MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82ea1289b001921d5a4",
+        "batch_slug": "vidyapeeth-12-ln160ma-2024-410046",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c48f4878-6671-47fe-a69d-42d9b1ad8d7a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN159MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed831a2241f00181a0041",
+        "batch_slug": "vidyapeeth-12-ln159ma-2024-031017",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/28d49eb4-ab75-4693-99e3-2f2347b1ca54.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN159EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82fb34a7f0018e8c315",
+        "batch_slug": "vidyapeeth-12-ln159ea-2024-571161",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9d46cb8b-518b-4d8a-b8c3-4dd4fe96d62a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN153EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82c724b9b00181d5440",
+        "batch_slug": "vidyapeeth-12-ln153ea-2024-380384",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4802cef2-bda5-4909-a325-f4f40421e93b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN154MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82ce75b640018fb9590",
+        "batch_slug": "vidyapeeth-12-ln154ma-2024-331012",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/216cf263-ae77-491e-a1ce-c2a5f8aedf31.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN154EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82a407d270018b4faaa",
+        "batch_slug": "vidyapeeth-12-ln154ea-2024-842416",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/04351b23-ff37-4474-8358-91b2cfb4cf19.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN165MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed832a1289b001921d5ab",
+        "batch_slug": "vidyapeeth-12-ln165ma-2024-356986",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3901f631-d9bd-4f98-9cce-20a0d2a9905e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 25-LN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66054bdec1958500182a1b12",
+        "batch_slug": "vidyapeeth-25-ln101ea-2024-436925",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f5202a86-6d80-4ca5-90c9-4b1f0acd07cc.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN161MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed8320c66f40018a5ca4d",
+        "batch_slug": "vidyapeeth-12-ln161ma-2024-654438",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bd09e8e6-d35e-4c0e-b1a1-0ced6cab002b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN161EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed829a1289b001921d585",
+        "batch_slug": "vidyapeeth-12-ln161ea-2024-318512",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fa615b14-cf03-43c1-ae23-289049d1316d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN157EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed8293f915a001814cd8c",
+        "batch_slug": "vidyapeeth-12-ln157ea-2024-544927",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eb31e91f-e2c0-4d06-b592-7caa9b1f3751.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LNA51MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82831587b0018f23f8a",
+        "batch_slug": "vidyapeeth-12-lna51ma-2024-907187",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4ab7e4d9-10a1-4a56-a51c-96a54539158e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN153MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed83293fe67001801d1f3",
+        "batch_slug": "vidyapeeth-12-ln153ma-2024-755239",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8e75eb3e-b4b7-4dd5-909c-69601ed72086.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN121MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed826e75b640018fb9579",
+        "batch_slug": "vidyapeeth-12-ln121ma-2024-511136",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2d12c1db-5faf-4063-b41e-d7e222caae07.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN157MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82ca1289b001921d595",
+        "batch_slug": "vidyapeeth-12-ln157ma-2024-778572",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e04569ba-c2f5-460d-a91f-0eadda42d1a4.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN162EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82da1289b001921d59c",
+        "batch_slug": "vidyapeeth-12-ln162ea-2024-958776",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8675ce48-b21e-43fd-bed0-b385e3a32a28.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN122EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed826b34a7f0018e8c06c",
+        "batch_slug": "vidyapeeth-12-ln122ea-2024-165311",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1f4b26aa-ac4b-430e-aef2-66963ff33c2f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN121EP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82764d71d0018f541a2",
+        "batch_slug": "vidyapeeth-12-ln121ep-2024-544156",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f18822a0-d23e-4ac4-8ebe-5d98ec3c90e9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN152EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed831e75b640018fb959d",
+        "batch_slug": "vidyapeeth-12-ln152ea-2024-710242",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e6054901-857a-45e6-b395-125cb853bcdc.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN155EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed830687ece0018375e73",
+        "batch_slug": "vidyapeeth-12-ln155ea-2024-726364",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8c3e1fa4-245f-450c-9deb-24ea3fe82c5e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN162MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82fb34a7f0018e8c31e",
+        "batch_slug": "vidyapeeth-12-ln162ma-2024-095341",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/29c85509-1940-4e2f-b9b1-18617079fb02.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN163MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed8330c66f40018a5ca54",
+        "batch_slug": "vidyapeeth-12-ln163ma-2024-579182",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a3e35a74-a3d1-48d8-9d2d-5c01da4d1b61.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN158MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed82e24738900181c4bc5",
+        "batch_slug": "vidyapeeth-12-ln158ma-2024-747881",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9ae374df-f305-43a3-8ec0-3af70c939799.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN151EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fed8305ecc0800188ea2ef",
+        "batch_slug": "vidyapeeth-12-ln151ea-2024-394686",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f08b06c7-602c-4d91-933c-28d957d48037.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 32-LN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66068e05405d8200186beaf0",
+        "batch_slug": "vidyapeeth-32-ln101ma-2024-950196",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5a74930a-dad1-4f4e-bfe6-437945038d07.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 41-AN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6605352916ea62001813506e",
+        "batch_slug": "vidyapeeth-41-an121ea-2024-039572",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dd492477-493c-47ec-90a9-ae81fb650e80.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-LN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6605426312d9540018385570",
+        "batch_slug": "vidyapeeth-21-ln201ma-2024-317363",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3591690a-18b3-4087-b349-4d77913ffd84.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-LN201MP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6604106c6655fd00189b27d7",
+        "batch_slug": "vidyapeeth-28-ln201mp-2024-561799",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5dbc882a-474d-439b-90fe-d57430866bb4.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 17-LN222EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66069ef6cff1340018a9f157",
+        "batch_slug": "vidyapeeth-17-ln222ea-2024-215424",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b71e9269-a129-42f9-a602-38f7df924ab6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-YN321NA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660650c0234f87001833963c",
+        "batch_slug": "vidyapeeth-21-yn321na-2024-688285",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e8256a7e-7f50-4e98-b118-2ba6ebbbdad3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 28-LN201EP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6604106c9924590018bb65c8",
+        "batch_slug": "vidyapeeth-28-ln201ep-2024-982838",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/55456b8e-3113-4ed7-8a82-b65fac45a5f3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 17-LN221EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660400dd012d5f0018d0cbfd",
+        "batch_slug": "vidyapeeth-17-ln221ea-2024-725398",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e73d9aaf-a6e0-46d1-88ae-b6beb2b94894.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11th NEET (Target 2026)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6501bc99ffd7ad0018835bab",
+        "batch_slug": "vidyapeeth-11th-neet--target-2026--969326",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/afcf082b-8cbf-4f74-b357-bf40a789da64.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-LN102MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "66542e10e29b5a001856e33d",
+        "batch_slug": "vidyapeeth-26-ln102ma-2024-975860",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e0f663bc-fe9c-4670-9213-28c4f165ab1b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth Doubt & Test Series 12th NEET 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65abb92f62abdc00186615b6",
+        "batch_slug": "vidyapeeth-doubt-and-test-series-12th-neet-2024-634672",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/aa39e1d1-666a-4577-b944-690bd2793f9a.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12th NEET (Target 2025)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6501bc99ca4bac0018bfef67",
+        "batch_slug": "vidyapeeth-12th-neet--target-2025--307954",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/75949f26-fe91-4574-80ff-3679d45fe714.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth DROPPER NEET (Target 2025)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6501bc99c1c2f7001800f634",
+        "batch_slug": "vidyapeeth-dropper-neet--target-2025--288394",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/3259fc87-1d75-4131-b8c4-abe0d4beac46.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 17-LN252EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660400de50a53300186e891b",
+        "batch_slug": "vidyapeeth-17-ln252ea-2024-307884",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/74f93cc4-20ab-45cd-8820-a7b4154b0aed.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 30-YN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6602ef5d0273a90018fcc9a8",
+        "batch_slug": "vidyapeeth-30-yn101ma-2024-197001",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c2d33244-d797-448b-adac-6d64b533744d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 17-LN251MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "660e6c57d77eee001806dee1",
+        "batch_slug": "vidyapeeth-17-ln251ma-2024-986240",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9c66abfd-ee16-4edf-9db3-1a6d1b8d52d1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 24-LN102WA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65ffcaf24c74390018e62245",
+        "batch_slug": "vidyapeeth-24-ln102wa-2024-285994",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3ea3d231-d8fa-44aa-b775-3e03978a3d15.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth Pathshala 11th NEET 2026",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "652a5dc1eebeb40018ec57aa",
+        "batch_slug": "vidyapeeth-pathshala-11th-neet-2026-592599",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/917fcbaa-0397-4579-b3de-e5c44f7d5470.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth Pathshala 12th NEET 2025",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "652a5dc0d2c6c7001866a611",
+        "batch_slug": "vidyapeeth-pathshala-12th-neet-2025-652707",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/66a13c05-9eca-43bb-9995-989fdcbae574.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth Pathshala DROPPER NEET 2025",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "652a5dc000c65f0018a7e755",
+        "batch_slug": "vidyapeeth-pathshala-dropper-neet-2025-146364",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/4872b5eb-732a-42f9-b7bc-222feab58cc6.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-LN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603de34588d43001805db8e",
+        "batch_slug": "vidyapeeth-34-ln121ea-2024-813034",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cf0e8178-97e1-4722-9be2-082150e26396.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-LN101EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603de34f4f63100188e22c9",
+        "batch_slug": "vidyapeeth-34-ln101ea-2024-028105",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0e3313cf-9f26-436d-a7be-d1015e50ce7a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-LN122EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603de350ce4ea00183fd964",
+        "batch_slug": "vidyapeeth-34-ln122ea-2024-746824",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/647d6a2f-6e03-4a47-95e2-1f2b8bb71332.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 34-LN222EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603de350ce4ea00183fd964",
+        "batch_slug": "vidyapeeth-34-ln222ea-2024-258359",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/6f718516-d0f4-4dfb-8973-13c51ba3b621.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-LN101WA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fc3e34f11cba00189968ac",
+        "batch_slug": "vidyapeeth-26-ln101wa-2024-208399",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f38904cd-e109-4d49-9055-0912862f1259.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 35-LN121MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd62dc79302100189b0164",
+        "batch_slug": "vidyapeeth-35-ln121ma-2024-900087",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/37a00237-afe1-4a17-a912-8a0432d373bb.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 45-LN121EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd604df43c79001852ab0d",
+        "batch_slug": "vidyapeeth-45-ln121ea-2024-839176",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6b5a26a1-0d13-4922-940b-f7f368f207a2.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 46-LN101MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65fd33005ecc0800188cb635",
+        "batch_slug": "vidyapeeth-46-ln101ma-2024-670989",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d52249cd-09fc-49eb-aefd-55b216536d0b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 21-LN221MP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65f553d7dc43cd001882faa8",
+        "batch_slug": "vidyapeeth-21-ln221mp-2024-048825",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/459f4e2e-d013-4a14-96f6-35b68d611a4f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-LN201MP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65f55aba69f9130018dda80d",
+        "batch_slug": "vidyapeeth-38-ln201mp-2024-980149",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/337e0b7a-4818-42e7-a13e-4c4a8aae2d0b.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-LN201EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65f55abadb23720018c3bcd6",
+        "batch_slug": "vidyapeeth-38-ln201ea-2024-408706",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6c411ddd-b691-4c09-bc26-dc72974ee509.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 38-AN201MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6603fbef6eb01d0018f32c44",
+        "batch_slug": "vidyapeeth-38-an201ma-2024-055628",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b5004faf-e450-4d51-8eca-6dad1bef89e1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Safar Vidyapeeth - NEET",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65e5979ab6b454001804d16e",
+        "batch_slug": "safar-vidyapeeth---neet-148685",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9e1b50ff-a4f3-4fc7-acd6-2f2c9835969a.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 36-LN205MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65c21d4a77e40400189a774e",
+        "batch_slug": "vidyapeeth-36-ln205ma-2024-862171",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ab0f5337-8322-4f52-9696-e04e8d81e145.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN201EH 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65a272ca52137200181ef32c",
+        "batch_slug": "vidyapeeth-11-ln201eh-2024-900367",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/02512e9d-17df-4792-8cb3-49b1f6f1def0.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE07MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65a272c95838890018c949bb",
+        "batch_slug": "vidyapeeth-11-lne07ma-2024-969530",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b8e67bd7-07bc-4f42-add7-fae18b3892c2.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE06MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65a272c94f180600185f617a",
+        "batch_slug": "vidyapeeth-11-lne06ma-2024-170857",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/1c51a7b4-c09a-4463-971d-10d8a6374e29.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE01MP 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65a272c93e266e0018b13abe",
+        "batch_slug": "vidyapeeth-11-lne01mp-2024-078336",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b8c0a4a8-a9a0-41c9-b8de-0a19f9e1435c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE03EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32d4531410018de8346",
+        "batch_slug": "vidyapeeth-11-lne03ea-2024-025379",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/05da1dbf-0d90-4e5d-b23a-b401629f5e2a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-LNE02MA 2024 (Merged)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "65a91185f23837001868053a",
+        "batch_slug": "vidyapeeth-26-lne02ma-2024--merged--973693",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/5888cd99-925a-4990-bead-af8cce0345da.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-LNE01MA 2024 (Merged)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "659d3d55d925b30018277ad1",
+        "batch_slug": "vidyapeeth-26-lne01ma-2024--merged--681387",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/06e0cd30-927c-4543-a21f-a83cd2163d99.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE04MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32c3cbd7600186dca15",
+        "batch_slug": "vidyapeeth-11-lne04ma-2024-111521",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/a71910d5-8915-421a-8aa9-bd83b31ca59e.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE02EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32d659159001836066b",
+        "batch_slug": "vidyapeeth-11-lne02ea-2024-108698",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/0a5276b2-fcd6-412d-923f-bdef7f1f57fe.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE05MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32c2bd9bd0018205a09",
+        "batch_slug": "vidyapeeth-11-lne05ma-2024-978426",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/59a01a2f-1073-46c6-b409-fd49418de6f6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE03MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32c13b746001853b159",
+        "batch_slug": "vidyapeeth-11-lne03ma-2024-474222",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/6db3083f-a7c4-4ade-ae5b-e7edb462ebf5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE01EA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32c070c590018b7787c",
+        "batch_slug": "vidyapeeth-11-lne01ea-2024-548694",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/964c91d5-98d0-4b4e-8612-5fd9bd614bb6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE02MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32b3cbd7600186dca0f",
+        "batch_slug": "vidyapeeth-11-lne02ma-2024-705204",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c2a0d16a-3746-4a28-b7f6-9e2d53a19427.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNE01MA 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6586e32bf790d4001813b970",
+        "batch_slug": "vidyapeeth-11-lne01ma-2024-255066",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/58039c77-d932-4686-ba62-9aad67d39618.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-FN201MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6517cb34ed173d00183ebfa9",
+        "batch_slug": "vidyapeeth-11-fn201ma-633064",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/95dcd325-385c-4b63-924f-b170e620c653.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth OP 12th NEET AITS 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650d6bbcbdb2c200188a90ee",
+        "batch_slug": "vidyapeeth-op-12th-neet-aits-2024-512202",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/537a9489-91ce-4ac7-a227-f2bc9b60232b.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth OP Dropper NEET AITS 2024",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "652a7a66e6a5830015195692",
+        "batch_slug": "vidyapeeth-op-dropper-neet-aits-2024-083990",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/dd908fb6-65cd-46f1-aadd-68d90f03de94.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LNA1PL",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650975df715857001836833e",
+        "batch_slug": "vidyapeeth-12-lna1pl-525795",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ef4a18fd-0801-40e5-b7b2-4a10914dbef7.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 12th NEET 2024 (38-LN201MA)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650e9b7dff822f0018d1f09f",
+        "batch_slug": "vidyapeeth---12th-neet-2024--38-ln201ma--588609",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/554dc0ea-3ea9-40af-8ddf-7fd0e2935457.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 11th NEET 2024 (12-ANA51MA)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650e977b84cc590018784869",
+        "batch_slug": "vidyapeeth---11th-neet-2024--12-ana51ma--467902",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 12th NEET 2024 (01-LN12M-23)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650e9b7f83b7090018f4f8f0",
+        "batch_slug": "vidyapeeth---12th-neet-2024--01-ln12m-23--198665",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 12th NEET 2024 (12-LNA51MA)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650ea52308194b0018cc435d",
+        "batch_slug": "vidyapeeth---12th-neet-2024--12-lna51ma--195022",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 12th NEET 2024 (18-LN101WA)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650ea5243d25910018b0f666",
+        "batch_slug": "vidyapeeth---12th-neet-2024--18-ln101wa--276817",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth - 12th NEET 2024 (47-LN101EA)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650e9b7ec482950018c2a764",
+        "batch_slug": "vidyapeeth---12th-neet-2024--47-ln101ea--222022",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AN1A1PL",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650975e07158570018368686",
+        "batch_slug": "vidyapeeth-12-an1a1pl-468193",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YNA1PL",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "650975dfc30fab0018de69b0",
+        "batch_slug": "vidyapeeth-12-yna1pl-342516",
+        "batch_banner": "-",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN501EH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64c3b6fd9197650018789f97",
+        "batch_slug": "vidyapeeth-11-yn501eh-888897",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3a50144b-9b67-4f05-b8bf-0ea965a62376.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN501EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64c3b70066eba00018b83d12",
+        "batch_slug": "vidyapeeth-11-an501ea-079573",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fec2f52c-ee53-45fc-b79c-da86a7f1cea2.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN401MH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "649aad7aa713b400180d0f48",
+        "batch_slug": "vidyapeeth-11-yn401mh-746345",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/245e871a-a8ce-4e09-936d-d00567a319f7.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN401EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6491635acbbc750018a6b03d",
+        "batch_slug": "vidyapeeth-11-yn401eb-553684",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/5d3e12ab-5cec-404b-b4af-ba375c889cc6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 31-YN402MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64999a5b3ca48e0018305ba3",
+        "batch_slug": "vidyapeeth-31-yn402ma-893693",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/f1393e7b-857b-4323-99b8-f66460162d5e.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-ANA01MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64a01f169f80bc00189dcb6d",
+        "batch_slug": "vidyapeeth-11-ana01ma-827306",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e49f9a2b-f073-4d3b-a6f7-4de79a6ae657.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN401EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6491635b04387b0018df6901",
+        "batch_slug": "vidyapeeth-11-an401ea-690804",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c27e23f0-63d3-478e-ba97-b1ce772d81c8.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN301MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6479cdab6cc2c30018507ca6",
+        "batch_slug": "vidyapeeth-11-yn301mb-113551",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/87bd1673-f834-4f13-a0ae-96f624720d30.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN302EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6481e13b52db6f0018d05f77",
+        "batch_slug": "vidyapeeth-11-yn302eb-982890",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/43f5b0b2-7b33-4735-8297-05d4e445f515.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN301MH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "646c7db99c71f20018edff38",
+        "batch_slug": "vidyapeeth-11-yn301mh-030375",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/b944e3f6-73f1-4037-b14b-5661c3a62421.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN301EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "646c7dba9c71f20018edff41",
+        "batch_slug": "vidyapeeth-11-an301ea-640629",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f9cb44b1-7dd3-4af6-9a9c-f83342b1da00.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN301MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "646c7dbb9cf4010018c02cac",
+        "batch_slug": "vidyapeeth-11-an301ma-240449",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8f123abd-78c9-46c1-a880-730ae7d12656.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-YN452EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6471f2012da7ab0018f1a0f3",
+        "batch_slug": "vidyapeeth-12-yn452ea-319987",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3982a465-1449-4f2e-8667-929ed4cce067.jpg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN202EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6463550eff15cb00183c8e2b",
+        "batch_slug": "vidyapeeth-11-yn202eb-517623",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e1c022ff-7289-419a-8877-fd1011528a1d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN202MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "644ac10d4ceffd001870149e",
+        "batch_slug": "vidyapeeth-11-yn202mb-525130",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3b491bd6-b2f5-4c95-af4e-f907a469eaed.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN201MH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "645357a0d5a70800186bc02a",
+        "batch_slug": "vidyapeeth-11-yn201mh-630093",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/17d88ec4-b69b-4065-9037-14c12b5f0025.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN202MG",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "644ac10e4ceffd00187014ae",
+        "batch_slug": "vidyapeeth-11-yn202mg-314644",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/5b4d5bff-7efa-47d3-9278-6e57c6a86e93.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN201MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "645357a07762a4001839bccd",
+        "batch_slug": "vidyapeeth-11-yn201mb-788103",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c5bd742d-a7e8-42e3-8c4e-609220553858.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-AJA51MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6465e23d31019400188dbb5a",
+        "batch_slug": "vidyapeeth-12-aja51ma-370367",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/56fa7fe4-c1cb-47a1-a344-d0f514e924f5.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN201EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "645357a003335e001868077a",
+        "batch_slug": "vidyapeeth-11-yn201eb-164067",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/096ebeb3-e0d6-4c87-87b3-87a0e5845e33.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN202EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "645380623a9ab20018969b01",
+        "batch_slug": "vidyapeeth-11-an202ea-817995",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e42479ca-a963-4241-b65b-c0bce8bcb9b7.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN201MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64496543bea6950018203c15",
+        "batch_slug": "vidyapeeth-11-ln201ma-025496",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/583b8d93-599d-48c6-b486-0029d5fd93bc.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN201MH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64562d1cf40182001988289c",
+        "batch_slug": "vidyapeeth-11-an201mh-390013",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/29f6c960-f724-4ac0-9a4d-e0d575ad858a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN101MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6423406776a5c500184fee5d",
+        "batch_slug": "vidyapeeth-11-yn101mb-730856",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/7128fde4-170d-4d84-a8cb-0b253900514c.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN104MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "643a3c961bdbd00018a635ff",
+        "batch_slug": "vidyapeeth-11-yn104mb-554975",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/48b89177-7aab-4c44-9814-8a01aac9a353.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN101MH",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641afd40e757a900183b0d8f",
+        "batch_slug": "vidyapeeth-11-yn101mh-481674",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/6f10b7f1-3402-4e07-9de0-0e2c9f5f7091.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN105MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b1e757a90018391093",
+        "batch_slug": "vidyapeeth-11-an105ma-239813",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/03b75376-e8ae-4e14-bcce-3055396aebc1.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN102MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64234067dc0ecd0018848763",
+        "batch_slug": "vidyapeeth-11-yn102mb-984497",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/0b27470f-1cf6-4d5d-a33d-c93fd6fa3b6a.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN109EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6423406adc0ecd0018848773",
+        "batch_slug": "vidyapeeth-11-yn109eb-662905",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/181a047c-9d7b-46bf-94b6-7a88a37ca832.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN103EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b1ca0e8a0018cea7a1",
+        "batch_slug": "vidyapeeth-11-an103ea-186660",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a723c9ab-c3f7-4ce8-af96-7d551a7c1000.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN101MG",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64234067dc0ecd001884875b",
+        "batch_slug": "vidyapeeth-11-yn101mg-360787",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/be6ebbce-96c6-4c72-b87f-04d6180f3321.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-YN110EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6423406a87d1620018eccd49",
+        "batch_slug": "vidyapeeth-11-yn110eb-618227",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/c8b5869f-9c5f-4780-9017-ef894aadc987.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN101MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b0e757a9001839108b",
+        "batch_slug": "vidyapeeth-11-an101ma-130549",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b127884a-3f6f-4d01-ba70-115d8fc02d69.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth Dropper NEET (Target 2024)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63988c712611d10040dce05c",
+        "batch_slug": "vidyapeeth-dropper-neet--target-2024--491031",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/84673622-5dcf-41ca-95d9-01cced5ed465.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN102EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b1b7b0810018852dbd",
+        "batch_slug": "vidyapeeth-11-an102ea-273921",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/975788c7-07cc-44e3-8ad5-643fa0132438.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN102MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b0eb5d040018eac663",
+        "batch_slug": "vidyapeeth-11-an102ma-719218",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/49664e7c-919b-41ea-8dd7-523a01393786.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-AN103MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "641ad8b0ca0e8a0018cea799",
+        "batch_slug": "vidyapeeth-11-an103ma-536341",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/cc30f4f5-04b9-4455-b64a-8194206356e6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 26-LN101MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "64141e17ae322401343846f7",
+        "batch_slug": "vidyapeeth-26-ln101ma-205046",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e28e068f-5be4-4f02-81ed-c20a78175bd0.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN101MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6422e931f8aad50018d0dd29",
+        "batch_slug": "vidyapeeth-11-ln101ma-648228",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a7dd67e9-e23a-4e73-909d-8a44a43f0cd9.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LN101EA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6422e9318da5e8001881e5b7",
+        "batch_slug": "vidyapeeth-11-ln101ea-178811",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c756060f-a3c5-4ec0-90d3-1f0ed4f94f5d.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 12-LN153EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "642c1f615532ad0018093df9",
+        "batch_slug": "vidyapeeth-12-ln153eb-984012",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1d5a14f0-0f34-4424-bbd0-969323f7944e.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "NEET Selection Express 2023 (PW Vidyapeeth)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "642141100294230018c7e55d",
+        "batch_slug": "neet-selection-express-2023--pw-vidyapeeth--359388",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0d88ed40-9976-4290-ad41-184e0a7376aa.jpeg",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11-LNA02MA",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63c84270932e9c00187c83d2",
+        "batch_slug": "vidyapeeth-11-lna02ma-426642",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/19692fbf-f51e-4bc8-850f-ddb70cd62272.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 01-LN11M-23",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63c2503121f3590018902085",
+        "batch_slug": "vidyapeeth-01-ln11m-23-790129",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a0b24eb6-9d0b-44e7-9e92-a14abeb26116.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 01-LN11E-23 (Merged)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63c2676c56f74000184bb134",
+        "batch_slug": "vidyapeeth-01-ln11e-23--merged--337147",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3d50173c-0945-4324-ac1a-2de91b4483e3.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 01-LN12M-23",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63c250e4cf887b00185da071",
+        "batch_slug": "vidyapeeth-01-ln12m-23-369719",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a70e3a50-636b-4aae-98cc-4d9e7f9aa05f.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 11th NEET Prahar (Takshak)",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "63791f1e827dac00596befc1",
+        "batch_slug": "vidyapeeth-11th-neet-prahar--takshak--740665",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f81c3a50-a75e-43c7-9051-8eb69c2c8530.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 02-AN43E",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "632195ab4d57af001843972b",
+        "batch_slug": "vidyapeeth-02-an43e-766152",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/08065270-c9dc-4759-998f-4c62ff8f3124.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 02-AN32M",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "6309ce8d39e17a0018c3fc89",
+        "batch_slug": "vidyapeeth-02-an32m-070712",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fbb0d865-1997-4a3f-aeda-d1916ce3abd8.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN41M",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "630008d24328dd00119b4de6",
+        "batch_slug": "vidyapeeth-an41m-723262",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/56673335-11df-4547-b2b0-4d8a27db1032.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth 07-AN22E",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "62ea0f80943a35001843e751",
+        "batch_slug": "vidyapeeth-07-an22e-769908",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4128061f-e317-4071-85b0-7af71486df12.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN23EB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "62d7d81122ff650011c23eec",
+        "batch_slug": "vidyapeeth-an23eb-918557",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/26f3f607-ea2b-4b4e-a46b-2c662790adb0.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN11MG",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "62bd4dfcb25a5a0019591ea0",
+        "batch_slug": "vidyapeeth-an11mg-777451",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/da854939-dcad-43af-b34a-11b418f539b6.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN11MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "62bd4f65c6da650018f6c722",
+        "batch_slug": "vidyapeeth-an11mb-361087",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1bf81e62-eb97-41b1-acbc-b5f247587ee5.png",
+        "batch_exam": "NEET"
+    },
+    {
+        "batch_name": "Vidyapeeth AN12MB",
+        "batch_class": "Vidyapeeth",
+        "batch_id": "62bd507bf26fd70018cee793",
+        "batch_slug": "vidyapeeth-an12mb-859928",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b982e9c7-2b51-432e-b1ef-ec43591f4ad2.png",
+        "batch_exam": "NEET"
+    }
+]

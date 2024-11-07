@@ -1,0 +1,42 @@
+[
+    {
+        "batch_name": "BBA (Online)",
+        "batch_class": "Graduation",
+        "batch_id": "6683e555c277a30018abc743",
+        "batch_slug": "bba--online--259555",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a9647e7b-95cc-432e-b55b-9f40d46848ee.png",
+        "batch_exam": "ONLINE DEGREES"
+    },
+    {
+        "batch_name": "BA (Online)",
+        "batch_class": "Graduation",
+        "batch_id": "6683e551b5e86800173b00c5",
+        "batch_slug": "ba--online--232420",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fc4fb24b-8948-4731-9067-fe3f041e952a.png",
+        "batch_exam": "ONLINE DEGREES"
+    },
+    {
+        "batch_name": "MSC Data Science (Online)",
+        "batch_class": "Graduation",
+        "batch_id": "6683e555c72ea70018d2f127",
+        "batch_slug": "msc-data-science--online--376334",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/76e0b4c9-f1cc-4ed2-b2e2-46bb9bbcd0d1.png",
+        "batch_exam": "ONLINE DEGREES"
+    },
+    {
+        "batch_name": "BCA (Online)",
+        "batch_class": "Graduation",
+        "batch_id": "6683e54e52d2d00018b82204",
+        "batch_slug": "bca--online--176205",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a28a0ca0-4e36-442a-9e5f-e982a2dfd32b.png",
+        "batch_exam": "ONLINE DEGREES"
+    },
+    {
+        "batch_name": "BCOM (Online)",
+        "batch_class": "Graduation",
+        "batch_id": "6683b5d179dc190018aa0dd4",
+        "batch_slug": "bcom--online--186880",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/1666dfc2-f0b3-4294-90e6-ec5540a91a79.png",
+        "batch_exam": "ONLINE DEGREES"
+    }
+]

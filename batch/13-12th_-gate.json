@@ -1,0 +1,418 @@
+[
+    {
+        "batch_name": "Shreshth 2.0 GATE 2026 Batch - B (Hinglish) - Electronics",
+        "batch_class": "12th+",
+        "batch_id": "665b02415edf140018e96ed4",
+        "batch_slug": "shreshth-2-0-gate-2026-batch---b--hinglish----electronics-315363",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/58ba4b3c-bfcb-436d-8f12-1389827568dd.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE 2025 Batch - B (Hinglish) - Mechanical\u00a0and\u00a0XE",
+        "batch_class": "12th+",
+        "batch_id": "665efddc13a92c0018092771",
+        "batch_slug": "parakram-2-0-gate-2025-batch---b--hinglish----mechanical-and-xe-319095",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d254adb1-9208-426c-bf66-4ea6b3fdb733.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2026 (Hinglish) Batch - Data Science & AI",
+        "batch_class": "12th+",
+        "batch_id": "665b10731320ff00183fff50",
+        "batch_slug": "shreshth-gate-2026--hinglish--batch---data-science-and-ai-979670",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b31e1d36-965f-4483-b50b-01eccdd5302a.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2025 Preparation - Mechanical",
+        "batch_class": "12th+",
+        "batch_id": "66261c358931020018d64008",
+        "batch_slug": "gate-2025-preparation---mechanical-405624",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/45449f9c-1a22-48cc-87a8-270e8fa0f4a3.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2025 Preparation - Electrical",
+        "batch_class": "12th+",
+        "batch_id": "66261c36995122001899b32e",
+        "batch_slug": "gate-2025-preparation---electrical-711982",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4a9281b2-dc25-4863-84e6-2d7bda85d522.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2025 Preparation - Electronics",
+        "batch_class": "12th+",
+        "batch_id": "66261c3693b7ca0018464b57",
+        "batch_slug": "gate-2025-preparation---electronics-192042",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c30aceb-c1ac-4c5b-9ec3-d8944349c9ac.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2025 Preparation - Computer Science & IT",
+        "batch_class": "12th+",
+        "batch_id": "66261c364bd911001875bcd9",
+        "batch_slug": "gate-2025-preparation---computer-science-and-it-895400",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7d611d85-bd74-4c3c-b3e2-7a83d95967d4.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Vijay 2.0 GATE 2025 Rank Improvement Batch - Computer Science & IT",
+        "batch_class": "12th+",
+        "batch_id": "65f40bc20e7fc3001883ee49",
+        "batch_slug": "vijay-2-0-gate-2025-rank-improvement-batch---computer-science-and-it-089278",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eaa9f9bf-693e-4496-922a-b2fa4039d3d9.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Vijay 2.0 GATE 2025 Rank Improvement Batch - Data Science & AI",
+        "batch_class": "12th+",
+        "batch_id": "65f41300dc348e00183e3b49",
+        "batch_slug": "vijay-2-0-gate-2025-rank-improvement-batch---data-science-and-ai-863443",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/32b71915-70cf-4ae5-bf54-2f175832cd82.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE 2025 (Hinglish) Batch - Civil",
+        "batch_class": "12th+",
+        "batch_id": "65f2bcafafcd910018c349fe",
+        "batch_slug": "parakram-2-0-gate-2025--hinglish--batch---civil-980241",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/36c434d7-7e32-4461-a572-5d0b5cdf1440.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE 2025 (Hinglish) Batch - Computer Science & IT",
+        "batch_class": "12th+",
+        "batch_id": "65f2c6b0afcd910018c35877",
+        "batch_slug": "parakram-2-0-gate-2025--hinglish--batch---computer-science-and-it-584354",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/2c041ca2-04c9-470d-a31b-68671ecfb9c1.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Mentorship GATE 2025 - CS & IT",
+        "batch_class": "12th+",
+        "batch_id": "65fa965c2c823100180d1675",
+        "batch_slug": "mentorship-gate-2025---cs-and-it-021093",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e83f8a45-47c1-4f63-84e4-01693bc9f392.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Mentorship GATE 2025 - Mechanical & XE",
+        "batch_class": "12th+",
+        "batch_id": "65fa965b2bde51001877b6b8",
+        "batch_slug": "mentorship-gate-2025---mechanical-and-xe-102403",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ed61b739-1c77-4a27-a63c-a3f11cb319e6.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Data Science and AI Free Batch - GATE 2025",
+        "batch_class": "12th+",
+        "batch_id": "65f5a18e41f037001781ccc7",
+        "batch_slug": "data-science-and-ai-free-batch---gate-2025-538149",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/9c639cbf-7ea8-445c-9af0-62efcf2c0331.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Vijay GATE 2025 Rank Improvement Batch - Chemical",
+        "batch_class": "12th+",
+        "batch_id": "65c4c21706ad9700189c4e80",
+        "batch_slug": "vijay-gate-2025-rank-improvement-batch---chemical-488781",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/10d848ea-381d-4faf-893e-163242b81b37.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE Wallah (English) - GATE 2025",
+        "batch_class": "12th+",
+        "batch_id": "65f59e1fc68a450018af75b1",
+        "batch_slug": "gate-wallah--english----gate-2025-690115",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a0a2249f-2a9f-4f13-8129-4bf94119739e.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch D - Electrical",
+        "batch_class": "12th+",
+        "batch_id": "65c492ed717cc10018be68e3",
+        "batch_slug": "parakram-2025-gate-batch-d---electrical-983493",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/baf23eb7-f368-4796-b545-420e0f63dadf.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Post GATE 2024 Guidance",
+        "batch_class": "12th+",
+        "batch_id": "65eb23b678a8330018370602",
+        "batch_slug": "post-gate-2024-guidance-956512",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/71921892-333c-46f3-945d-412dcb124563.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "BARC 2024 Question Practice Series - Computer",
+        "batch_class": "12th+",
+        "batch_id": "65e2bbe4e551400018091a72",
+        "batch_slug": "barc-2024-question-practice-series---computer-156235",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a05fa1d8-5d3f-47df-baf3-0ada3e4bb85e.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2026 + PSUs + Placement Preparation Batch - D Computer Science",
+        "batch_class": "12th+",
+        "batch_id": "65c48dddd7ead10018f6b1e0",
+        "batch_slug": "shreshth-gate-2026---psus---placement-preparation-batch---d-computer-science-512320",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/828a5d72-6031-489b-b304-51fe1507aafd.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch D - Computer Science & IT",
+        "batch_class": "12th+",
+        "batch_id": "65c493d87b62e0001851188a",
+        "batch_slug": "parakram-2025-gate-batch-d---computer-science-and-it-802084",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/06eccbeb-8b90-4868-be18-e80d46906ec9.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Engineering Mathematics - GATE",
+        "batch_class": "12th+",
+        "batch_id": "65d441e9266a3300187a7db8",
+        "batch_slug": "engineering-mathematics---gate-728956",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1af3d8ea-1f73-4d2b-b1ed-e8a3f6cec32a.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram GATE 2025 Computer Science and DA",
+        "batch_class": "12th+",
+        "batch_id": "654ccf5aee945800189872dc",
+        "batch_slug": "parakram-gate-2025-computer-science-and-da-604168",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/75a19c36-7a5d-4b1b-9074-f395b4bb0525.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch B - Mechanical & Engineering Science",
+        "batch_class": "12th+",
+        "batch_id": "655dfa900cdd8900183510f7",
+        "batch_slug": "parakram-2025-gate-batch-b---mechanical-and-engineering-science-519885",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/a7328893-2601-48bc-845c-b860af897a04.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch B - Civil",
+        "batch_class": "12th+",
+        "batch_id": "655dfa90f46490001833c992",
+        "batch_slug": "parakram-2025-gate-batch-b---civil-078928",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/74e35c96-8692-4340-81c9-b291443cfbeb.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch - Electrical",
+        "batch_class": "12th+",
+        "batch_id": "650097faba3e600018b98b73",
+        "batch_slug": "parakram-2025-gate-batch---electrical-891272",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/70c0a449-a168-4df3-8cc7-aceea8275950.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2024 Electronics Super 1500",
+        "batch_class": "12th+",
+        "batch_id": "65009b95677cb7001873f90d",
+        "batch_slug": "gate-2024-electronics-super-1500-058752",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/78da4750-4826-4adb-bf8e-11eb5381c2b5.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2024 Computer Science & IT Super 1500",
+        "batch_class": "12th+",
+        "batch_id": "65009b95b4b12c0018341566",
+        "batch_slug": "gate-2024-computer-science-and-it-super-1500-206926",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe7b835-aac3-4f50-9b6d-f30ad8415cbf.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2025 GATE Batch - Computer Science & IT",
+        "batch_class": "12th+",
+        "batch_id": "650097fb89c3d60018e5297a",
+        "batch_slug": "parakram-2025-gate-batch---computer-science-and-it-942589",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0c58a7f2-6ced-4677-ae0b-6eb1c0ff8280.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram GATE 2024 - Data Science & AI",
+        "batch_class": "12th+",
+        "batch_id": "64d9d08d5c5e2e0018dc3e61",
+        "batch_slug": "parakram-gate-2024---data-science-and-ai-190778",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bc6e6bae-87ec-4573-8175-77b136872c85.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "SHRESHTH GATE 2026 + PSUs + Placement Preparation Computer Science",
+        "batch_class": "12th+",
+        "batch_id": "64ba3d0a81ec1d00183ae6fd",
+        "batch_slug": "shreshth-gate-2026---psus---placement-preparation-computer-science-398508",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/90e08aff-5c91-4859-a1f6-0ff71abff07a.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Vijay B - Computer Science Weekday Hinglish",
+        "batch_class": "12th+",
+        "batch_id": "6481c9ab5f45ac001819b2ee",
+        "batch_slug": "vijay-b---computer-science-weekday-hinglish-934467",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8268cb73-01de-48a0-b7f7-346723cc8477.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth 2.0 GATE - 2025 Batch - B Mechanical Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "645a7a0e23986700188a38cf",
+        "batch_slug": "shreshth-2-0-gate---2025-batch---b-mechanical-weekday--hinglish--627117",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/66a45faa-db45-433b-abd1-d4480fe6a656.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth 2.0 GATE - 2025 Batch - B Computer Science Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "645a7a0fbaff8b0018c37446",
+        "batch_slug": "shreshth-2-0-gate---2025-batch---b-computer-science-weekday--hinglish--720177",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/014e2637-87fa-4808-a039-2a18cd6d6d89.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Mathematics and Aptitude - GATE",
+        "batch_class": "12th+",
+        "batch_id": "6447a1279b663d0018ed51f1",
+        "batch_slug": "mathematics-and-aptitude---gate-469679",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bf7b4424-013a-46ab-9f7b-5489d3d24097.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE - 2024 Electronics Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f7b1649f56ae0018510779",
+        "batch_slug": "parakram-2-0-gate---2024-electronics-weekday--hinglish--668812",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fb6e0f9f-0fb4-4e8c-8205-007e9f969bfe.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Vijay(Dropper Batch)- Computer Science Weekday Hinglish",
+        "batch_class": "12th+",
+        "batch_id": "63f86eb7b4a1d40018e5d7d8",
+        "batch_slug": "vijay-dropper-batch---computer-science-weekday-hinglish-179216",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/525cf968-98a8-4c0b-a023-0f6f480c405c.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE - 2024 Computer Science Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f744293bfbac0018963c85",
+        "batch_slug": "parakram-2-0-gate---2024-computer-science-weekday--hinglish--031044",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0c8fee5c-fae4-4009-8e9d-112e3ae41fd8.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth 2.0 GATE - 2025 Computer Science Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f750a9c62e4c00186d8e1c",
+        "batch_slug": "shreshth-2-0-gate---2025-computer-science-weekday--hinglish--671549",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/42d2c3dd-8a84-4902-ba08-add5f537ebfb.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram 2.0 GATE - 2024 Electrical Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f7ab52e6aab80018b29831",
+        "batch_slug": "parakram-2-0-gate---2024-electrical-weekday--hinglish--449130",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/3e643d63-7f44-451e-a13a-355e47be5a6f.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2024 Engineering Mathematics and Aptitude (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f0e8e98a64670018999f62",
+        "batch_slug": "gate-2024-engineering-mathematics-and-aptitude--hinglish--629938",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ff1562c3-d5f6-407e-81ba-36b525a35904.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2025 Engineering Mathematics and Aptitude  (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63f0e99118cf3a0017aff883",
+        "batch_slug": "gate-2025-engineering-mathematics-and-aptitude--hinglish--875565",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/472ad6af-2b7d-42ba-bca2-dae0884c46fb.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE 2023- Instrumentation Engineering",
+        "batch_class": "12th+",
+        "batch_id": "63e23cdbb9aeac001848b501",
+        "batch_slug": "gate-2023--instrumentation-engineering-156278",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/485921c5-70d4-4c75-a388-12b8be936cdf.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram GATE-2024 Batch - C Computer Science Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63a44d00e6c1fb00192f9366",
+        "batch_slug": "parakram-gate-2024-batch---c-computer-science-weekday--hinglish--851601",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/d1c85ba5-5ac3-4f01-a862-717cee098912.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE-2025 Batch - C Computer Science Weekend (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "63a44eda8416d30018a65ea8",
+        "batch_slug": "shreshth-gate-2025-batch---c-computer-science-weekend--hinglish--829758",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ebb8a716-81b8-4354-b325-40d7b2104b68.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Parakram GATE-2024 Batch - B Computer Science Weekend (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "638256f3d59b170018bbb79f",
+        "batch_slug": "parakram-gate-2024-batch---b-computer-science-weekend--hinglish--419628",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/9ae8f780-2208-4bc5-be77-cb5592221748.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE-2025 Batch - B Electrical Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "638268f7d27b10033f5afb10",
+        "batch_slug": "shreshth-gate-2025-batch---b-electrical-weekday--hinglish--314814",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/629a91f0-a6be-4f07-b08a-554678e4a168.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2025 Civil Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "632ecdd7f9d4ae0018b4a01e",
+        "batch_slug": "shreshth-gate-2025-civil-weekday--hinglish--728212",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ff72f1e-b544-425d-b7ed-2b379636f820.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2025 Electronics Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "632ecf841970d8001193f620",
+        "batch_slug": "shreshth-gate-2025-electronics-weekday--hinglish--511830",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/201abda7-397c-48a7-9833-b8523436b112.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2025 Electrical Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "632ece876cd1cb00184522fe",
+        "batch_slug": "shreshth-gate-2025-electrical-weekday--hinglish--166254",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/e522b554-869a-46a8-808c-56b46245cc94.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "Shreshth GATE 2025 Computer Science Weekday (Hinglish)",
+        "batch_class": "12th+",
+        "batch_id": "632ecfdd26816f0018792b18",
+        "batch_slug": "shreshth-gate-2025-computer-science-weekday--hinglish--984040",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/165702b3-9bba-467b-adb9-2dbefb0138d6.png",
+        "batch_exam": "GATE"
+    },
+    {
+        "batch_name": "GATE Crash Course 2023 Computer science",
+        "batch_class": "12th+",
+        "batch_id": "632dc2b3ab439e001868d585",
+        "batch_slug": "gate-crash-course-2023-computer-science-316852",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/549ba811-fed6-4698-9de6-2b9465f5a60d.png",
+        "batch_exam": "GATE"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "batch_name": "Master IELTS",
+        "batch_class": "12th+",
+        "batch_id": "668fcd79452ae10018bb1108",
+        "batch_slug": "master-ielts-076702",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/33ad5fc2-90d0-48f6-8a29-5230e30b5fa5.png",
+        "batch_exam": "IELTS"
+    },
+    {
+        "batch_name": "IELTS FREE Masterclass",
+        "batch_class": "12th+",
+        "batch_id": "660cefd56cce450018fe9dc6",
+        "batch_slug": "ielts-free-masterclass-809691",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ed523ab7-7ca6-4682-8918-890417763d67.jpg",
+        "batch_exam": "IELTS"
+    },
+    {
+        "batch_name": "TOEFL TURBO",
+        "batch_class": "12th+",
+        "batch_id": "6688bfd25eafb10018d00a8f",
+        "batch_slug": "toefl-turbo-916212",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/15b54b61-2bde-4410-9c1b-791bd97f28d4.png",
+        "batch_exam": "IELTS"
+    }
+]
