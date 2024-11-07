@@ -1,1 +1,302 @@
-[{"batch_class":"All","batch_exam":"PRE FOUNDATION"},{"batch_class":"All","batch_exam":"SCHOOL CURRICULUM"},{"batch_class":"9th","batch_exam":"FOUNDATION"},{"batch_class":"10th","batch_exam":"BOARD EXAM"},{"batch_class":"11th","batch_exam":"FOUNDATION"},{"batch_class":"12th","batch_exam":"BOARD EXAM"},{"batch_class":"11th","batch_exam":"IIT-JEE"},{"batch_class":"12th","batch_exam":"IIT-JEE"},{"batch_class":"12th+","batch_exam":"IIT-JEE"},{"batch_class":"11th","batch_exam":"NEET"},{"batch_class":"12th","batch_exam":"NEET"},{"batch_class":"12th+","batch_exam":"NEET"},{"batch_class":"12th+","batch_exam":"NDA"},{"batch_class":"12th+","batch_exam":"GATE"},{"batch_class":"12th+","batch_exam":"UPSC"},{"batch_class":"12th+","batch_exam":"IIT JAM"},{"batch_class":"12th+","batch_exam":"SSC"},{"batch_class":"12th","batch_exam":"COMMERCE"},{"batch_class":"12th+","batch_exam":"COMMERCE"},{"batch_class":"12th+","batch_exam":"CA"},{"batch_class":"12th+","batch_exam":"Banking"},{"batch_class":"12th+","batch_exam":"AE/JE"},{"batch_class":"12th+","batch_exam":"Skills"},{"batch_class":"12th+","batch_exam":"MBA"},{"batch_class":"12th+","batch_exam":"CSIR NET"},{"batch_class":"12th+","batch_exam":"CUET UG"},{"batch_class":"10th","batch_exam":"OLYMPIAD"},{"batch_class":"11th","batch_exam":"OLYMPIAD"},{"batch_class":"12th","batch_exam":"OLYMPIAD"},{"batch_class":"12th+","batch_exam":"OLYMPIAD"},{"batch_class":"12th+","batch_exam":"BPSC"},{"batch_class":"12th+","batch_exam":"IPMAT"},{"batch_class":"12th+","batch_exam":"LAW"},{"batch_class":"12th+","batch_exam":"MBA GMAT"},{"batch_class":"12th+","batch_exam":"TET"},{"batch_class":"12th+","batch_exam":"CS"},{"batch_class":"12th+","batch_exam":"ESE + GATE"},{"batch_class":"12th+","batch_exam":"JAIIB AND CAIIB"},{"batch_class":"12th+","batch_exam":"Judiciary"},{"batch_class":"12th+","batch_exam":"MBA GMAT"},{"batch_class":"12th+","batch_exam":"MPPSC"},{"batch_class":"12th+","batch_exam":"MPSC"},{"batch_class":"12th+","batch_exam":"NEET PG"},{"batch_class":"12th+","batch_exam":"Nursing Exams"},{"batch_class":"12th+","batch_exam":"Railway"},{"batch_class":"12th+","batch_exam":"UGC NET"},{"batch_class":"12th+","batch_exam":"UP Exams"},{"batch_class":"12th+","batch_exam":"UPPSC"},{"batch_class":"12th+","batch_exam":"PW ONLY IAS"},{"batch_class":"Graduation","batch_exam":"ONLINE DEGREES"},{"batch_class":"Graduation","batch_exam":"WBPSC"},{"batch_class":"12th+","batch_exam":"IELTS"},{"batch_class":"12th+","batch_exam":"ARCHITECTURE"},{"batch_class":"12th+","batch_exam":"ESE + GATE"},{"batch_class":"12th+","batch_exam":"OPSC"},{"batch_class":"Vidyapeeth","batch_exam":"FOUNDATION"},{"batch_class":"Vidyapeeth","batch_exam":"BOARD EXAM"},{"batch_class":"Vidyapeeth","batch_exam":"IIT-JEE"},{"batch_class":"Vidyapeeth","batch_exam":"NEET"},{"batch_class":"Vidyapeeth","batch_exam":"Unknown"}]
+[
+  {
+    "batch_class": "All",
+    "batch_exam": "PRE FOUNDATION",
+    "slug": "0-all-pre-foundation.json"
+  },
+  {
+    "batch_class": "All",
+    "batch_exam": "SCHOOL CURRICULUM",
+    "slug": "1-all-school-curriculum.json"
+  },
+  {
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "slug": "2-9th-foundation.json"
+  },
+  {
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "slug": "3-10th-board-exam.json"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "FOUNDATION",
+    "slug": "4-11th-foundation.json"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "slug": "5-12th-board-exam.json"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "IIT-JEE",
+    "slug": "6-11th-iit-jee.json"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "IIT-JEE",
+    "slug": "7-12th-iit-jee.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IIT-JEE",
+    "slug": "8-12th_-iit-jee.json"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "slug": "9-11th-neet.json"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "slug": "10-12th-neet.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "slug": "11-12th_-neet.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "slug": "12-12th_-nda.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "slug": "13-12th_-gate.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "UPSC",
+    "slug": "14-12th_-upsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM",
+    "slug": "15-12th_-iit-jam.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "slug": "16-12th_-ssc.json"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "COMMERCE",
+    "slug": "17-12th-commerce.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "COMMERCE",
+    "slug": "18-12th_-commerce.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "CA",
+    "slug": "19-12th_-ca.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "slug": "20-12th_-banking.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "AE/JE",
+    "slug": "21-12th_-ae-je.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "Skills",
+    "slug": "22-12th_-skills.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MBA",
+    "slug": "23-12th_-mba.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "CSIR NET",
+    "slug": "24-12th_-csir-net.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "CUET UG",
+    "slug": "25-12th_-cuet-ug.json"
+  },
+  {
+    "batch_class": "10th",
+    "batch_exam": "OLYMPIAD",
+    "slug": "26-10th-olympiad.json"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "OLYMPIAD",
+    "slug": "27-11th-olympiad.json"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "OLYMPIAD",
+    "slug": "28-12th-olympiad.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "OLYMPIAD",
+    "slug": "29-12th_-olympiad.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "BPSC",
+    "slug": "30-12th_-bpsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IPMAT",
+    "slug": "31-12th_-ipmat.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "LAW",
+    "slug": "32-12th_-law.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MBA GMAT",
+    "slug": "33-12th_-mba-gmat.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "TET",
+    "slug": "34-12th_-tet.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "CS",
+    "slug": "35-12th_-cs.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "ESE + GATE",
+    "slug": "36-12th_-ese-_-gate.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "JAIIB AND CAIIB",
+    "slug": "37-12th_-jaiib-and-caiib.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "Judiciary",
+    "slug": "38-12th_-judiciary.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MBA GMAT",
+    "slug": "39-12th_-mba-gmat.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MPPSC",
+    "slug": "40-12th_-mppsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "MPSC",
+    "slug": "41-12th_-mpsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "NEET PG",
+    "slug": "42-12th_-neet-pg.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "Nursing Exams",
+    "slug": "43-12th_-nursing-exams.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "Railway",
+    "slug": "44-12th_-railway.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "UGC NET",
+    "slug": "45-12th_-ugc-net.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "UP Exams",
+    "slug": "46-12th_-up-exams.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "UPPSC",
+    "slug": "47-12th_-uppsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "PW ONLY IAS",
+    "slug": "48-12th_-pw-only-ias.json"
+  },
+  {
+    "batch_class": "Graduation",
+    "batch_exam": "ONLINE DEGREES",
+    "slug": "49-graduation-online-degrees.json"
+  },
+  {
+    "batch_class": "Graduation",
+    "batch_exam": "WBPSC",
+    "slug": "50-graduation-wbpsc.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IELTS",
+    "slug": "51-12th_-ielts.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "ARCHITECTURE",
+    "slug": "52-12th_-architecture.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "ESE + GATE",
+    "slug": "53-12th_-ese-_-gate.json"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "OPSC",
+    "slug": "54-12th_-opsc.json"
+  },
+  {
+    "batch_class": "Vidyapeeth",
+    "batch_exam": "FOUNDATION",
+    "slug": "55-vidyapeeth-foundation.json"
+  },
+  {
+    "batch_class": "Vidyapeeth",
+    "batch_exam": "BOARD EXAM",
+    "slug": "56-vidyapeeth-board-exam.json"
+  },
+  {
+    "batch_class": "Vidyapeeth",
+    "batch_exam": "IIT-JEE",
+    "slug": "57-vidyapeeth-iit-jee.json"
+  },
+  {
+    "batch_class": "Vidyapeeth",
+    "batch_exam": "NEET",
+    "slug": "58-vidyapeeth-neet.json"
+  },
+  {
+    "batch_class": "Vidyapeeth",
+    "batch_exam": "Unknown",
+    "slug": "59-vidyapeeth-unknown.json"
+  }
+]
