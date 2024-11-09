@@ -24,7 +24,7 @@
   "botType": "2",
   "viewType": "0",
   "mainurl": "",
-  "mainDLApi": "https://pwapi-aaebd595f347.herokuapp.com/pw-dl/",
+  "mainDLApi": "https://pwapi-aaebd595f347.herokuapp.com/",
   "mainApi": "https://pwapi-aaebd595f347.herokuapp.com/",
   "tok": "true",
   "copy": "true",
