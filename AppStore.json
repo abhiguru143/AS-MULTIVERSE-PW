@@ -1,10 +1,10 @@
 {
-  "success": true,
+  "success": false,
   "tg": "https://telegram.me/+aRSr3dReiV1jZjJl",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
   "update": "https://abhiguru143.github.io/MyStore/MadXStore_V_1.2_by_MadXAbhiOfflicial.apk",
-  "version": "1.2",
+  "version": "1.2.1",
   "announcement": "",
   "api": "MyAppStore.json"
 }
