@@ -1,5 +1,13 @@
 [
     {
+        "batch_name": "Lakshya JEE Fastrack 2025",
+        "batch_class": "12th",
+        "batch_id": "66e2e1380642e7846ce6d3ee",
+        "batch_slug": "lakshya-jee-fastrack-2025-865844",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/317ceeb7-378b-4c0f-afc8-113ec4fe1b49.jpg",
+        "batch_exam": "IIT-JEE"
+    },
+    {
         "batch_name": "Lakshya JEE 2026",
         "batch_class": "12th",
         "batch_id": "65dc6fbabb55350018d555b7",
