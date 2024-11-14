@@ -1,5 +1,13 @@
 [
     {
+        "batch_name": "Lakshya NEET Fastrack 2025",
+        "batch_class": "12th",
+        "batch_id": "66e2e3aa5efa581a1a227be6",
+        "batch_slug": "lakshya-neet-fastrack-2025-740197",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/876a0d71-3936-4874-8f71-ff22fec9ea25.jpg",
+        "batch_exam": "NEET"
+    },
+    {
         "batch_name": "Lakshya NEET 2026",
         "batch_class": "12th",
         "batch_id": "65dc6fbaf5bcd500180102cd",
