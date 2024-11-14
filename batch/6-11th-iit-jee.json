@@ -1,5 +1,13 @@
 [
     {
+        "batch_name": "Arjuna JEE Fastrack Course",
+        "batch_class": "11th",
+        "batch_id": "63512f4e5a267d0012af6777",
+        "batch_slug": "arjuna-jee-fastrack-course-352103",
+        "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/38f4ba2a-5cd7-4b3f-b59e-ba54783762e1.png",
+        "batch_exam": "IIT-JEE"
+    },
+    {
         "batch_name": "Fighter JEE - 2025",
         "batch_class": "11th",
         "batch_id": "66d06980538987001826ce3d",
