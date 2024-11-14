@@ -1,5 +1,13 @@
 [
     {
+        "batch_name": "Prayas JEE Fastrack 2025",
+        "batch_class": "12th+",
+        "batch_id": "66d69e743a7a5a0018efe0a2",
+        "batch_slug": "prayas-jee-fastrack-2025-912782",
+        "batch_banner": "https://static.pw.live/5eb393ee95fab7468a79d189/ADMIN/d6b20bc2-2129-4ac6-9680-8a917b2f6376.jpg",
+        "batch_exam": "IIT-JEE"
+    },
+    {
         "batch_name": "Prayas JEE Hindi 2.0 2025",
         "batch_class": "12th+",
         "batch_id": "65dde2146e2f720018d0633c",
