@@ -1,10 +1,16 @@
 {
   "success": true,
+  "version": "5.21.6",
   "tg": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
+  "wp": "https://www.instagram.com/as_multiverse.official",
+  "dc": "https://www.instagram.com/as_multiverse.official",
+  "tgdl": "https://www.instagram.com/as_multiverse.official",
   "update": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
   "announcement": "Aap Logo ne WhatsApp channel join nhi kiya hai to aajao Jaldi see",
-  "api": "https://api-sarkari.koyeb.app/classplus?link=",
-  "adsid": ""
+  "announcementLink": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
+  "tag": "@ASMultiverseAppZ",
+  "vidType": "0",
+  "downloadType": "0"
 }
