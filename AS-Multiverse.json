@@ -24,8 +24,8 @@
   "botType": "2",
   "viewType": "0",
   "mainurl": "",
-  "mainDLApi": "https://madxapi-39b5d3247816.herokuapp.com/",
-  "mainApi": "https://madxapi-39b5d3247816.herokuapp.com/",
+  "mainDLApi": "https://madxpwapi-1c25db6a7756.herokuapp.com/",
+  "mainApi": "https://madxpwapi-1c25db6a7756.herokuapp.com/",
   "tok": "true",
   "copy": "true",
   "cmd": "/yl "
